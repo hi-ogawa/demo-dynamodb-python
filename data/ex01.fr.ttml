@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="fr" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:06.810" style="s2">Salut à tous, bienvenue dans une nouvelle vidéo <br />sur la chaîne de Piece of French ! J&#39;espère que  </p>
+<p begin="00:00:06.810" end="00:00:17.160" style="s2">vous allez bien. Aujourd&#39;hui, on est le 31 août <br />2021 et demain on déménage ! Déménager, ça veut  </p>
+<p begin="00:00:17.160" end="00:00:23.880" style="s2">dire changer d&#39;appartement, changer de maison, <br />prendre toutes ses affaires, tous ses meubles,  </p>
+<p begin="00:00:23.880" end="00:00:30.960" style="s2">tous ses vêtements et aller dans un autre <br />logement, dans un autre appartement. Avant  </p>
+<p begin="00:00:30.960" end="00:00:36.780" style="s2">de déménager, il y a la période de recherche <br />d&#39;appartement. Si vous êtes en France et que  </p>
+<p begin="00:00:36.780" end="00:00:44.782" style="s2">vous voulez chercher un appartement, vous pouvez <br />aller sur des sites comme leboncoin ou seloger.com  </p>
+<p begin="00:00:44.782" end="00:00:52.986" style="s2">et chercher sur ce site. Donc vous écrivez dans <br />quelle ville ou dans quel quartier vous cherchez,  </p>
+<p begin="00:00:52.986" end="00:00:59.730" style="s2">quel est votre budget, combien de pièces vous <br />voulez, vous pouvez entrer tous vos critères  </p>
+<p begin="00:00:59.730" end="00:01:07.770" style="s2">et ensuite regarder les résultats de recherche <br />et aller visiter des appartements pour choisir  </p>
+<p begin="00:01:07.770" end="00:01:13.680" style="s2">quel appartement vous voulez. Alors nous on <br />avait plusieurs critères dans notre recherche  </p>
+<p begin="00:01:13.680" end="00:01:22.824" style="s2">d&#39;appartement. Tout d&#39;abord, on voulait au moins <br />deux (2) pièces. Alors attention dans les pièces,  </p>
+<p begin="00:01:22.824" end="00:01:30.270" style="s2">on ne compte ni la salle de bain ni la cuisine <br />ni les toilettes. On compte seulement les pièces  </p>
+<p begin="00:01:30.270" end="00:01:38.970" style="s2">habitables, c&#39;est-à-dire le salon et les chambres. <br />Donc nous on cherchait un appartement 2 pièces  </p>
+<p begin="00:01:38.970" end="00:01:48.750" style="s2">minimum, idéalement trois (3) pièces donc <br />on voulait un salon et une chambre et moi</p>
+<p begin="00:01:48.750" end="00:01:55.710" style="s2">je voulais un coin bureau pour pouvoir avoir un coin <br />où travailler tranquillement puisque je travaille  </p>
+<p begin="00:01:55.710" end="00:02:02.914" style="s2">de la maison. On voulait que l&#39;appartement <br />ne soit pas trop loin du travail de Doron  </p>
+<p begin="00:02:02.914" end="00:02:10.580" style="s2">donc un trajet de trente (30) minutes en vélo <br />électrique maximum, qu&#39;il soit facile se garer,  </p>
+<p begin="00:02:10.580" end="00:02:15.980" style="s2">de garer la voiture, ça aussi c&#39;était important <br />pour nous, qu&#39;il y ait beaucoup de places pour  </p>
+<p begin="00:02:15.980" end="00:02:25.995" style="s2">se garer et un jardin ou un balcon, ça <br />c&#39;est un plus. Donc finalement on a trouvé,  </p>
+<p begin="00:02:25.995" end="00:02:31.850" style="s2">comme je vous le disais dans ma dernière <br />vidéo, on va remplacer en fait nos voisins.  </p>
+<p begin="00:02:31.850" end="00:02:39.630" style="s2">On va reprendre l&#39;appartement de nos voisins donc <br />c&#39;est le plus simple. Ils ont un deux (2) pièces  </p>
+<p begin="00:02:39.630" end="00:02:47.160" style="s2">avec un jardin donc ce sera bien pour nous. <br />Donc une fois qu&#39;on a cherché l&#39;appartement,  </p>
+<p begin="00:02:47.160" end="00:02:53.639" style="s2">trouvé l&#39;appartement, c&#39;est l&#39;heure de <br />déménager et il faut faire les cartons !</p>
+<p begin="00:02:55.814" end="00:03:03.090" style="s2">Ça, c&#39;est un carton. Quand on déménage, on a <br />besoin de beaucoup de cartons pour mettre toutes  </p>
+<p begin="00:03:03.090" end="00:03:10.560" style="s2">ses affaires. Donc dans chaque carton, on met un <br />type d&#39;affaires pour que ça reste organisé donc là  </p>
+<p begin="00:03:10.560" end="00:03:18.261" style="s2">par exemple, on a des livres. Donc là, on a mis <br />les livres. Là aussi, il y a d&#39;autres livres,  </p>
+<p begin="00:03:18.261" end="00:03:24.540" style="s2">là il y a les affaires de bureau que Doron est <br />en train de trier parce que quand on déménage,  </p>
+<p begin="00:03:24.540" end="00:03:32.640" style="s2">c&#39;est aussi l&#39;occasion de faire du tri et de jeter <br />les choses inutiles ou de donner les choses qu&#39;on  </p>
+<p begin="00:03:32.640" end="00:03:40.320" style="s2">n&#39;utilise pas donc c&#39;est vraiment l&#39;occasion <br />de trier. Donc là, on va faire les cartons,  </p>
+<p begin="00:03:40.320" end="00:03:45.600" style="s2">mettre les vêtements dans les cartons, la <br />vaisselle dans les cartons aussi et pour  </p>
+<p begin="00:03:45.600" end="00:03:49.560" style="s2">que ce soit un peu plus sympathique, on <br />va mettre de la musique parce que c&#39;est  </p>
+<p begin="00:03:49.560" end="00:03:57.600" style="s2">toujours plus sympa avec un peu de musique et en <br />ce moment j&#39;aime beaucoup le groupe français &quot;Bon  </p>
+<p begin="00:03:57.600" end="00:04:03.878" style="s2">Entendeur&quot; donc je vous conseille d&#39;aller <br />écouter et on va mettre ça tout de suite.</p>
+<p begin="00:04:43.228" end="00:04:49.631" style="s2">C&#39;est l&#39;heure de la pause café</p>
+<p begin="00:04:49.631" end="00:04:56.172" style="s2">On a bien avancé et là on <br />fait une petite pause café,  </p>
+<p begin="00:04:56.172" end="00:05:05.000" style="s2">on a fait des cafés froids parce qu&#39;il fait super <br />chaud aujourd&#39;hui mais voilà sinon ça avance bien</p>
+<p begin="00:05:07.455" end="00:05:14.290" style="s2">Qu&#39;est ce qu&#39;il nous reste à faire ? Organiser <br />la cuisine, aussi tout l&#39;extérieur de la maison,  </p>
+<p begin="00:05:14.290" end="00:05:22.330" style="s2">toutes les plantes... On n&#39;a pas <br />fini, ça va être encore long !</p>
+<p begin="00:05:22.330" end="00:05:29.680" style="s2">Bonjour, c&#39;est le jour J, c&#39;est le jour du <br />déménagement. Il est presque huit (8) heures  </p>
+<p begin="00:05:29.680" end="00:05:37.150" style="s2">et les déménageurs vont bientôt arriver. Les <br />déménageurs, c&#39;est les personnes qui vont  </p>
+<p begin="00:05:37.150" end="00:05:43.570" style="s2">venir déménager l&#39;appartement, qui vont venir <br />prendre tous les meubles et tous les cartons  </p>
+<p begin="00:05:43.570" end="00:05:50.590" style="s2">et les amener dans le nouvel appartement. <br />C&#39;est une entreprise qui fait ça. En général,  </p>
+<p begin="00:05:50.590" end="00:05:56.020" style="s2">lors des déménagements, les déménageurs <br />viennent avec un camion pour mettre tous  </p>
+<p begin="00:05:56.020" end="00:06:01.565" style="s2">les meubles mais là comme c&#39;est vraiment tout <br />près, je pense qu&#39;ils vont venir sans camion  </p>
+<p begin="00:06:01.664" end="00:06:08.140" style="s2">et je suis sûre que vous mourez d&#39;envie de <br />voir l&#39;appartement, que vous avez très envie de  </p>
+<p begin="00:06:08.140" end="00:06:15.340" style="s2">voir l&#39;appartement et que vous n&#39;attendez que <br />ça donc je je vous propose qu&#39;on aille le voir  </p>
+<p begin="00:06:15.340" end="00:06:22.490" style="s2">tout de suite quand il est encore vide et qu&#39;il <br />n&#39;y a rien dedans donc allez venez, on y va !</p>
+<p begin="00:06:30.977" end="00:06:35.860" style="s2">Alors voilà à quoi ressemble <br />l&#39;appartement. Donc là,  </p>
+<p begin="00:06:35.860" end="00:06:45.000" style="s2">on a la cuisine, ici c&#39;est le <br />salon. J&#39;allume la lumière.</p>
+<p begin="00:06:47.707" end="00:06:54.498" style="s2">Donc là, il y a la salle de bain <br />avec les toilettes et la douche.  </p>
+<p begin="00:06:54.815" end="00:07:11.140" style="s2">Ensuite il y a une chambre et surtout <br />un grand jardin, donc là on a un jardin</p>
+<p begin="00:07:12.425" end="00:07:17.710" style="s2">Voilà l&#39;appartement vide. <br />Comme vous pouvez le voir,  </p>
+<p begin="00:07:17.710" end="00:07:24.040" style="s2">c&#39;est quand même beaucoup plus grand que notre <br />appartement actuel donc on est vraiment super  </p>
+<p begin="00:07:24.040" end="00:07:32.980" style="s2">contents d&#39;avoir de l&#39;espace. Il y a également <br />plein de rangements, d&#39;endroit pour ranger mais  </p>
+<p begin="00:07:32.980" end="00:07:43.345" style="s2">voilà on est trop contents. Regardez, j&#39;ai de <br />l&#39;espace, j&#39;ai de l&#39;espace !! Ahhh, trop bien ! </p>
+<p begin="00:07:43.345" end="00:07:47.640" style="s2">Bon allez, les déménageurs <br />arrive donc faut que j&#39;y aille</p>
+<p begin="00:08:06.794" end="00:08:18.260" style="s2">On a enfin fini le déménagement, tous les <br />cartons sont ici. On a commencé à 9h30,  </p>
+<p begin="00:08:18.260" end="00:08:27.200" style="s2">il est 13h donc ça nous a pris trois heures et <br />demie (3h30) pour tout déménager. On est crevés  </p>
+<p begin="00:08:27.200" end="00:08:36.500" style="s2">et on crève de faim, on a très faim et comme on <br />ne peut pas cuisiner parce que tout est encore  </p>
+<p begin="00:08:36.500" end="00:08:43.431" style="s2">dans les cartons, on va aller manger dehors <br />et on a très envie d&#39;aller manger un falafel.</p>
+<p begin="00:09:18.130" end="00:09:27.970" style="s2">Je viens de me réveiller d&#39;une sieste. On était crevés <br />après le déménagement, on était épuisés,  </p>
+<p begin="00:09:27.970" end="00:09:41.148" style="s2">fatigués donc on a inauguré le nouvel appartement <br />et on a fait une petite sieste. Là il est 16h 45  </p>
+<p begin="00:09:41.148" end="00:09:51.700" style="s2">et on va passer à la deuxième étape. Donc après <br />le déménagement, il y a l&#39;emménagement. Emménager,  </p>
+<p begin="00:09:51.700" end="00:09:59.920" style="s2">ça veut dire s&#39;installer dans un nouveau logement <br />donc c&#39;est le moment où on va défaire les cartons.  </p>
+<p begin="00:09:59.920" end="00:10:06.250" style="s2">Après avoir fait les cartons, on va défaire <br />les cartons donc c&#39;est vraiment voilà le moment  </p>
+<p begin="00:10:06.250" end="00:10:11.680" style="s2">où on s&#39;installe, où on prend ses marques dans <br />un nouveau logement, où on prend possession  </p>
+<p begin="00:10:11.680" end="00:10:19.300" style="s2">d&#39;un nouveau logement, on appelle ça emménager. Je <br />vais finir le vlog ici mais ne vous inquiétez pas,  </p>
+<p begin="00:10:19.300" end="00:10:27.280" style="s2">je vous tiendrai au courant dans les futures vidéos<br />sur l&#39;avancée de la décoration de l&#39;appartement et  </p>
+<p begin="00:10:27.280" end="00:10:35.260" style="s2">de l&#39;aménagement de l&#39;appartement, peut-être même <br />qu&#39;on fera une pendaison de crémaillère quand tout  </p>
+<p begin="00:10:35.260" end="00:10:39.820" style="s2">sera fini. Une pendaison de crémaillère, c&#39;est <br />quand on s&#39;installe dans une nouvelle maison,  </p>
+<p begin="00:10:39.820" end="00:10:47.350" style="s2">on invite des amis et on fait une petite fête pour <br />inaugurer la maison, ça s&#39;appelle une pendaison  </p>
+<p begin="00:10:47.350" end="00:10:53.080" style="s2">de crémaillère. Donc on verra. Si vous voulez <br />suivre tout ça, je vous invite à vous abonner  </p>
+<p begin="00:10:53.080" end="00:11:01.450" style="s2">à la chaîne si ce n&#39;est pas déjà fait et à activer <br />les notifications pour ne pas rater les prochaines  </p>
+<p begin="00:11:01.450" end="00:11:07.450" style="s2">vidéos. Dites-moi en commentaire quels mots <br />de vocabulaire vous avez appris dans cette  </p>
+<p begin="00:11:07.450" end="00:11:13.630" style="s2">vidéo en français, ça m&#39;intéresse et racontez <br />moi est-ce que vous avez déménagé récemment,  </p>
+<p begin="00:11:13.630" end="00:11:19.480" style="s2">comment s&#39;est passé le déménagement ? Racontez-moi <br />dans les commentaires. Je vous embrasse,  </p>
+<p begin="00:11:19.480" end="00:11:27.652" style="s2">prenez soin de vous et on se voit mercredi <br />prochain dans une nouvelle vidéo, salut !</p>
+</div>
+</body>
+</tt>

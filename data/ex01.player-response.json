@@ -1,0 +1,3026 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          },
+          {
+            "key": "e",
+            "value": "24105628,24105161,23968386,24083188,24101616,24049820,24050503,24045469,24077127,24091242,24088877,24004644,23857949,24083162,24087223,24036948,24001373,24058380,23744176,24003541,24076879,23934970,24007790,24064555,24083163,23998056,24007246,23882503,23918597,24085811,23946420,24082661,24028143,1714244,24045470,24083189,24590385,23804281,24106628,23996830,24002022,24034168,23884386,23818919,24102119,24080738,24100823,23966208,24002025,23986033,23991736,24097493,24056274,23983296,24077266,23944779,24101842,24094715,24082058,24106407,24091701"
+          }
+        ]
+      },
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "yt_ad",
+            "value": "1"
+          },
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20210924.00.00"
+          },
+          {
+            "key": "yt_li",
+            "value": "0"
+          },
+          {
+            "key": "GetPlayer_rid",
+            "value": "0xc8bcaf7bd7e95449"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20210924"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          }
+        ]
+      }
+    ],
+    "mainAppWebResponseContext": {
+      "loggedOut": true
+    },
+    "webResponseContextExtensionData": {
+      "hasDecorated": true
+    }
+  },
+  "playabilityStatus": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "streamingData": {
+    "expiresInSeconds": "21540",
+    "formats": [
+      {
+        "itag": 18,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=18&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fmp4&ns=dzJqthny8GE9H7OASWq62lIG&gir=yes&clen=47467696&ratebypass=yes&dur=695.576&lmt=1631721594857159&mt=1632630764&fvip=3&fexp=24001373%2C24007246&c=WEB&txp=5430434&n=zuF-x9hPxcQOhtk&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAJ635MPmWY94zOhFvAJ7hFjkSL8HnFPqeNlJfOMMFi8yAiEAyZNB8pcEdK0ZVbfFsg5LAJrlx4qf7wWyDEnwmjwVWOs%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+        "bitrate": 545975,
+        "width": 640,
+        "height": 360,
+        "lastModified": "1631721594857159",
+        "contentLength": "47467696",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 545938,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "695576",
+        "audioSampleRate": "44100",
+        "audioChannels": 2
+      },
+      {
+        "itag": 22,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=22&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fmp4&ns=dzJqthny8GE9H7OASWq62lIG&cnr=14&ratebypass=yes&dur=695.576&lmt=1631722894611224&mt=1632630764&fvip=3&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=zuF-x9hPxcQOhtk&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAOSem-P1j7d09moycCcUFeJ-MMBuF-aaXZnyG2cLx94nAiBbuChPlUuMr9Z81huVfoHzuORmxLhFU7ZtKY7dI_2N8w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"",
+        "bitrate": 717318,
+        "width": 1280,
+        "height": 720,
+        "lastModified": "1631722894611224",
+        "quality": "hd720",
+        "fps": 30,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "695576",
+        "audioSampleRate": "44100",
+        "audioChannels": 2
+      }
+    ],
+    "adaptiveFormats": [
+      {
+        "itag": 137,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fmp4&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=172624021&dur=695.528&lmt=1631721517996870&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANoIyKrS2udZwlXurVr5Y0n0KnranVtzvSW9Ng64LOCQAiB5xI8TnFrHgokPuoHR-QI406OP3S3d0XFoUDjE_ydOaA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/mp4; codecs=\"avc1.640028\"",
+        "bitrate": 4326144,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "740"
+        },
+        "indexRange": {
+          "start": "741",
+          "end": "2380"
+        },
+        "lastModified": "1631721517996870",
+        "contentLength": "172624021",
+        "quality": "hd1080",
+        "fps": 30,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 1985530,
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 248,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=162377141&dur=695.528&lmt=1631722921933717&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAMHzDkvGD_z8K8E7qGimpmwSp_TRlse34fW9rSBAcyx0AiEA8Tr-Br889eiLI4BBUkvN9pXMWnvw7hOQ-OiWIf0tyuI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 2715012,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "2605"
+        },
+        "lastModified": "1631722921933717",
+        "contentLength": "162377141",
+        "quality": "hd1080",
+        "fps": 30,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 1867670,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 136,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=136&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fmp4&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=51147302&dur=695.528&lmt=1631722689068148&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgLHQ7CoXXCsx7Nc8X7pmUWZcWsfm3fp28DFMxQ0UHDZwCIQCpoqfpAwBAhtLL9msaALUsca1_jG9bJfJlqBel8AIawA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+        "bitrate": 1988355,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "2378"
+        },
+        "lastModified": "1631722689068148",
+        "contentLength": "51147302",
+        "quality": "hd720",
+        "fps": 30,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 588298,
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 247,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=89099746&dur=695.528&lmt=1631726658094017&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgOulwSV9vZoUspxIIg8n5lMC4BExLpTyjFe-E5aSLjqcCIDaqflGIN9kKqUavmlRM1tUfHBRouf_k1C_XQWMkH8P3&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 1521510,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "2593"
+        },
+        "lastModified": "1631726658094017",
+        "contentLength": "89099746",
+        "quality": "hd720",
+        "fps": 30,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 1024830,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 135,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fmp4&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=30563549&dur=695.528&lmt=1631721799517743&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgNDtQel5eak_iiriGg8beL7Lh30VWMX86IT3l56DuqtMCIGLcxK4tsqLDefXoMNF6hGivCYAyKyNDz2NrW6m8KITn&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+        "bitrate": 1159216,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "2378"
+        },
+        "lastModified": "1631721799517743",
+        "contentLength": "30563549",
+        "quality": "large",
+        "fps": 30,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 351543,
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 244,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=46290928&dur=695.528&lmt=1631726651520947&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgOQu-BWrMqEwz0xb7XlkdWQ90aOXUuqiEh5r_M1AwCRACIQCyIm6prWrbE4zliGGYlfQ8UWuW4A72KjDszo6HrE15og%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 759825,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "2572"
+        },
+        "lastModified": "1631726651520947",
+        "contentLength": "46290928",
+        "quality": "large",
+        "fps": 30,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 532440,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 134,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=134&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fmp4&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=18775136&dur=695.528&lmt=1631721793534023&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAI3XKHKtfUi6XwJbRgWny8srnpI5F_krNlEvhwFGsiI6AiBQCItAOWuv9WD6dRUGz137MClZiBiaqkFi-m1Q0T44EA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+        "bitrate": 633643,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "2378"
+        },
+        "lastModified": "1631721793534023",
+        "contentLength": "18775136",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 215952,
+        "highReplication": true,
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 243,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=26808145&dur=695.528&lmt=1631726661630717&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgfjAUdF9FcX8Ib-YC9FKyk7aP4NUv8PHD2lU4M8Y1cJgCIDvwe6MVtUmOboBnK1Cs-p8tFcWHq3qguzIXAlm0CrLn&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 417285,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "2536"
+        },
+        "lastModified": "1631726661630717",
+        "contentLength": "26808145",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 308348,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 133,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=133&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fmp4&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=9625427&dur=695.528&lmt=1631721794870774&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhALajJBoa1rIwjCIs0eWuwkFMAl5C5U_muNkclbS9a0WWAiArVHg1nqeRAYArPbFZNIDs2ULKEciYheUglwFa5Fq5Fw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/mp4; codecs=\"avc1.4d4015\"",
+        "bitrate": 245136,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "2378"
+        },
+        "lastModified": "1631721794870774",
+        "contentLength": "9625427",
+        "quality": "small",
+        "fps": 30,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 110712,
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 242,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=242&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=12390028&dur=695.528&lmt=1631726676894394&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgNjSHlisIdlxxGUFBL7lMxR4erSI60fySqQipwACP7bQCIQD6qQxUF5vHH5KOpVjADIK1o9VSnV4E3BHCn7F67OX-qg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 198030,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "218"
+        },
+        "indexRange": {
+          "start": "219",
+          "end": "2487"
+        },
+        "lastModified": "1631726676894394",
+        "contentLength": "12390028",
+        "quality": "small",
+        "fps": 30,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 142510,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 160,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=160&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fmp4&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=4621182&dur=695.528&lmt=1631722022005793&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgWHGM4oUR6E2vgWtPARMKRprXF_bLlff2gk4-OznXb-UCIQD9OKNbmYI2H4anRZQqRBa32CXOIPI2b1sF8Nf-pY1YSg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/mp4; codecs=\"avc1.4d400c\"",
+        "bitrate": 111141,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "737"
+        },
+        "indexRange": {
+          "start": "738",
+          "end": "2377"
+        },
+        "lastModified": "1631722022005793",
+        "contentLength": "4621182",
+        "quality": "tiny",
+        "fps": 30,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 53153,
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 278,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=278&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=video%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=7086975&dur=695.528&lmt=1631726647441645&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgFDd_1CYG3m6gyDR8DLGbIZ4VqfmRjHOq5H-CynLFvpcCIQCrXv-18Xg9URlaE1-6GYI3blSq9BS3Ikk0f46BTzfdjA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 88121,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "218"
+        },
+        "indexRange": {
+          "start": "219",
+          "end": "2486"
+        },
+        "lastModified": "1631726647441645",
+        "contentLength": "7086975",
+        "quality": "tiny",
+        "fps": 30,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 81514,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "695528"
+      },
+      {
+        "itag": 140,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=140&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=audio%2Fmp4&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=11258305&dur=695.576&lmt=1631721042005531&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANZ_luR3Z1tY6R0JkbNask0EJY9zyzzV8xmfCbuyhfmFAiBkGWjiieEl3PA3hlUTo1I2QhvTLlogr3ymJzA6XWP8Pw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+        "bitrate": 130959,
+        "initRange": {
+          "start": "0",
+          "end": "631"
+        },
+        "indexRange": {
+          "start": "632",
+          "end": "1503"
+        },
+        "lastModified": "1631721042005531",
+        "contentLength": "11258305",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 129484,
+        "highReplication": true,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "695576",
+        "audioSampleRate": "44100",
+        "audioChannels": 2,
+        "loudnessDb": -0.89000034
+      },
+      {
+        "itag": 249,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=249&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=audio%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=4310426&dur=695.541&lmt=1631721998249522&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKH-1x_AhPkruXso_CoeDFw0nEBxV6f-PjqTjqxC8FHCAiEAj9EEVwmL4co5keabTaO0wbVPht8oDqlnjvAUozjOG8g%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "audio/webm; codecs=\"opus\"",
+        "bitrate": 59898,
+        "initRange": {
+          "start": "0",
+          "end": "258"
+        },
+        "indexRange": {
+          "start": "259",
+          "end": "1444"
+        },
+        "lastModified": "1631721998249522",
+        "contentLength": "4310426",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 49577,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "695541",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "loudnessDb": -0.89000034
+      },
+      {
+        "itag": 250,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=250&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=audio%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=4890396&dur=695.541&lmt=1631721998259196&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAIxjGc--lnJajPXAgXc4iau_ZSWFqzFB1esallAjzg3DAiEAx8UA4d09xpehsRf1OVqKOddZ67LZ_kImK95BUTLC6as%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "audio/webm; codecs=\"opus\"",
+        "bitrate": 79168,
+        "initRange": {
+          "start": "0",
+          "end": "258"
+        },
+        "indexRange": {
+          "start": "259",
+          "end": "1445"
+        },
+        "lastModified": "1631721998259196",
+        "contentLength": "4890396",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 56248,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "695541",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "loudnessDb": -0.89000034
+      },
+      {
+        "itag": 251,
+        "url": "https://r3---sn-oguelnle.googlevideo.com/videoplayback?expire=1632652506&ei=evhPYafVA4uq2roPhdeYiAU&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=o-AK_jU9n1GBtPEuHY4inJoFYzEdsEpU5t2SBUbv_XiboT&itag=251&source=youtube&requiressl=yes&mh=33&mm=31%2C29&mn=sn-oguelnle%2Csn-ogul7n7z&ms=au%2Crdu&mv=m&mvi=3&pl=34&initcwndbps=1216250&vprv=1&mime=audio%2Fwebm&ns=kL2TXbwpPR1OU4y2Zg2kgw8G&gir=yes&clen=9084282&dur=695.541&lmt=1631721998227677&mt=1632630764&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=HfDfzNMBTvVJ8KX&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgMmwUfrf95rJBP_SXkv8n5ady1Oe6GkfxLszu9KBLui4CIQCGi6p1HB7XHi3W7oW7Biajrg_XL2wub4Q7pOsxsL_msQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMdbyyWAs6i7hh988MtBRBRDtj3hz-VsKV1YRabWs2XSAiAtw9IupDO7yO6d5RN7k3iwfikObCuUI4GS3N3KPO5XPg%3D%3D",
+        "mimeType": "audio/webm; codecs=\"opus\"",
+        "bitrate": 154928,
+        "initRange": {
+          "start": "0",
+          "end": "258"
+        },
+        "indexRange": {
+          "start": "259",
+          "end": "1445"
+        },
+        "lastModified": "1631721998227677",
+        "contentLength": "9084282",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 104485,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "695541",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "loudnessDb": -0.89000034
+      }
+    ]
+  },
+  "playerAds": [
+    {
+      "playerLegacyDesktopWatchAdsRenderer": {
+        "playerAdParams": {
+          "showContentThumbnail": true,
+          "enabledEngageTypes": "3,6,4,5,17,1"
+        },
+        "gutParams": {
+          "tag": "\\4061\\ytpwmpu"
+        },
+        "showCompanion": true,
+        "showInstream": true,
+        "useGut": true
+      }
+    }
+  ],
+  "playbackTracking": {
+    "videostatsPlaybackUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/playback?cl=398260941&docid=fQf_12r_Z8I&ei=evhPYZKPBauM2roPksqd8A8&fexp=1714244%2C11231064%2C11233840%2C11233939%2C11234174%2C11234223%2C23744176%2C23804281%2C23818919%2C23857949%2C23882503%2C23884386%2C23918597%2C23934970%2C23944779%2C23946420%2C23966208%2C23968386%2C23983296%2C23986033%2C23991736%2C23996830%2C23998056%2C24001373%2C24002022%2C24002025%2C24003541%2C24004644%2C24007246%2C24007790%2C24028143%2C24034168%2C24036948%2C24045469%2C24045470%2C24049820%2C24050503%2C24056274%2C24058380%2C24064555%2C24076879%2C24077127%2C24077266%2C24080738%2C24082058%2C24082661%2C24083162%2C24083163%2C24083188%2C24083189%2C24085811%2C24087223%2C24088877%2C24091242%2C24091701%2C24094715%2C24097493%2C24100823%2C24101616%2C24101842%2C24102119%2C24105161%2C24105628%2C24106407%2C24106628%2C24590385%2C39795729%2C39803165%2C39803736&ns=yt&plid=AAXM3oE1OXPiR_Et&el=detailpage&len=696&of=XOjqtiPkKLYexsnqWVPOmg&vm=CAEQARgEOjJBS1JhaHdEMUNHd1BxN0lrVW9KRmptT21XZWwteWJlUG1MczJLWlRNRlZSWUEwSUJKZ2JLQVBta0tETHJkazBmcm9JaW5LUmM2VWFKNWpaSG9WYml0TVhFTXBBVlFwbzhSdmJabnliRU9KcThFcEdBa2ZJTXh2R2U4aVhvRldJ"
+    },
+    "videostatsDelayplayUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/delayplay?cl=398260941&docid=fQf_12r_Z8I&ei=evhPYZKPBauM2roPksqd8A8&fexp=1714244%2C11231064%2C11233840%2C11233939%2C11234174%2C11234223%2C23744176%2C23804281%2C23818919%2C23857949%2C23882503%2C23884386%2C23918597%2C23934970%2C23944779%2C23946420%2C23966208%2C23968386%2C23983296%2C23986033%2C23991736%2C23996830%2C23998056%2C24001373%2C24002022%2C24002025%2C24003541%2C24004644%2C24007246%2C24007790%2C24028143%2C24034168%2C24036948%2C24045469%2C24045470%2C24049820%2C24050503%2C24056274%2C24058380%2C24064555%2C24076879%2C24077127%2C24077266%2C24080738%2C24082058%2C24082661%2C24083162%2C24083163%2C24083188%2C24083189%2C24085811%2C24087223%2C24088877%2C24091242%2C24091701%2C24094715%2C24097493%2C24100823%2C24101616%2C24101842%2C24102119%2C24105161%2C24105628%2C24106407%2C24106628%2C24590385%2C39795729%2C39803165%2C39803736&ns=yt&plid=AAXM3oE1OXPiR_Et&el=detailpage&len=696&of=XOjqtiPkKLYexsnqWVPOmg&vm=CAEQARgEOjJBS1JhaHdEMUNHd1BxN0lrVW9KRmptT21XZWwteWJlUG1MczJLWlRNRlZSWUEwSUJKZ2JLQVBta0tETHJkazBmcm9JaW5LUmM2VWFKNWpaSG9WYml0TVhFTXBBVlFwbzhSdmJabnliRU9KcThFcEdBa2ZJTXh2R2U4aVhvRldJ"
+    },
+    "videostatsWatchtimeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/watchtime?cl=398260941&docid=fQf_12r_Z8I&ei=evhPYZKPBauM2roPksqd8A8&fexp=1714244%2C11231064%2C11233840%2C11233939%2C11234174%2C11234223%2C23744176%2C23804281%2C23818919%2C23857949%2C23882503%2C23884386%2C23918597%2C23934970%2C23944779%2C23946420%2C23966208%2C23968386%2C23983296%2C23986033%2C23991736%2C23996830%2C23998056%2C24001373%2C24002022%2C24002025%2C24003541%2C24004644%2C24007246%2C24007790%2C24028143%2C24034168%2C24036948%2C24045469%2C24045470%2C24049820%2C24050503%2C24056274%2C24058380%2C24064555%2C24076879%2C24077127%2C24077266%2C24080738%2C24082058%2C24082661%2C24083162%2C24083163%2C24083188%2C24083189%2C24085811%2C24087223%2C24088877%2C24091242%2C24091701%2C24094715%2C24097493%2C24100823%2C24101616%2C24101842%2C24102119%2C24105161%2C24105628%2C24106407%2C24106628%2C24590385%2C39795729%2C39803165%2C39803736&ns=yt&plid=AAXM3oE1OXPiR_Et&el=detailpage&len=696&of=XOjqtiPkKLYexsnqWVPOmg&vm=CAEQARgEOjJBS1JhaHdEMUNHd1BxN0lrVW9KRmptT21XZWwteWJlUG1MczJLWlRNRlZSWUEwSUJKZ2JLQVBta0tETHJkazBmcm9JaW5LUmM2VWFKNWpaSG9WYml0TVhFTXBBVlFwbzhSdmJabnliRU9KcThFcEdBa2ZJTXh2R2U4aVhvRldJ"
+    },
+    "ptrackingUrl": {
+      "baseUrl": "https://www.youtube.com/ptracking?ei=evhPYZKPBauM2roPksqd8A8&oid=Y1AMtB_GJ1iXaicL7jTSxw&plid=AAXM3oE1OXPiR_Et&pltype=content&ptchn=VzyfpNuFF4ENY8zNTIW7ug&ptk=youtube_single&video_id=fQf_12r_Z8I"
+    },
+    "qoeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/qoe?cl=398260941&docid=fQf_12r_Z8I&ei=evhPYZKPBauM2roPksqd8A8&event=streamingstats&fexp=1714244%2C11231064%2C11233840%2C11233939%2C11234174%2C11234223%2C23744176%2C23804281%2C23818919%2C23857949%2C23882503%2C23884386%2C23918597%2C23934970%2C23944779%2C23946420%2C23966208%2C23968386%2C23983296%2C23986033%2C23991736%2C23996830%2C23998056%2C24001373%2C24002022%2C24002025%2C24003541%2C24004644%2C24007246%2C24007790%2C24028143%2C24034168%2C24036948%2C24045469%2C24045470%2C24049820%2C24050503%2C24056274%2C24058380%2C24064555%2C24076879%2C24077127%2C24077266%2C24080738%2C24082058%2C24082661%2C24083162%2C24083163%2C24083188%2C24083189%2C24085811%2C24087223%2C24088877%2C24091242%2C24091701%2C24094715%2C24097493%2C24100823%2C24101616%2C24101842%2C24102119%2C24105161%2C24105628%2C24106407%2C24106628%2C24590385%2C39795729%2C39803165%2C39803736&ns=yt&plid=AAXM3oE1OXPiR_Et"
+    },
+    "atrUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/atr?docid=fQf_12r_Z8I&ei=evhPYZKPBauM2roPksqd8A8&len=696&ns=yt&plid=AAXM3oE1OXPiR_Et&ver=2",
+      "elapsedMediaTimeSeconds": 5
+    },
+    "videostatsScheduledFlushWalltimeSeconds": [
+      10,
+      20,
+      30
+    ],
+    "videostatsDefaultFlushIntervalSeconds": 40
+  },
+  "captions": {
+    "playerCaptionsRenderer": {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=fQf_12r_Z8I&asr_langs=de,en,es,fr,id,it,ja,ko,nl,pt,ru,tr,vi&caps=asr&exp=xftt,xctw&xoaf=4&hl=en&ip=0.0.0.0&ipbits=0&expire=1632656106&sparams=ip,ipbits,expire,v,asr_langs,caps,exp,xoaf&signature=BBDE7DB948FEB0C379E48BAA2DBC78772CC808B3.38F33D5CC0D3880524C1BCD5B1EF65AEFC44C9D9&key=yt8",
+      "visibility": "ON"
+    },
+    "playerCaptionsTracklistRenderer": {
+      "captionTracks": [
+        {
+          "baseUrl": "https://www.youtube.com/api/timedtext?v=fQf_12r_Z8I&asr_langs=de,en,es,fr,id,it,ja,ko,nl,pt,ru,tr,vi&caps=asr&exp=xftt,xctw&xoaf=4&hl=en&ip=0.0.0.0&ipbits=0&expire=1632656106&sparams=ip,ipbits,expire,v,asr_langs,caps,exp,xoaf&signature=C4FE592A8B57C52904AD860416EF8F20965AA61B.2E2FB8BB8666D410C1D54B2EC398B3C01E9E3436&key=yt8&lang=en",
+          "name": {
+            "simpleText": "English"
+          },
+          "vssId": ".en",
+          "languageCode": "en",
+          "isTranslatable": true
+        },
+        {
+          "baseUrl": "https://www.youtube.com/api/timedtext?v=fQf_12r_Z8I&asr_langs=de,en,es,fr,id,it,ja,ko,nl,pt,ru,tr,vi&caps=asr&exp=xftt,xctw&xoaf=4&hl=en&ip=0.0.0.0&ipbits=0&expire=1632656106&sparams=ip,ipbits,expire,v,asr_langs,caps,exp,xoaf&signature=C4FE592A8B57C52904AD860416EF8F20965AA61B.2E2FB8BB8666D410C1D54B2EC398B3C01E9E3436&key=yt8&lang=fr",
+          "name": {
+            "simpleText": "French"
+          },
+          "vssId": ".fr",
+          "languageCode": "fr",
+          "isTranslatable": true
+        }
+      ],
+      "audioTracks": [
+        {
+          "captionTrackIndices": [
+            0,
+            1
+          ],
+          "defaultCaptionTrackIndex": 0,
+          "visibility": "ON",
+          "hasDefaultTrack": true,
+          "captionsInitialState": "CAPTIONS_INITIAL_STATE_ON_RECOMMENDED"
+        }
+      ],
+      "translationLanguages": [
+        {
+          "languageCode": "af",
+          "languageName": {
+            "simpleText": "Afrikaans"
+          }
+        },
+        {
+          "languageCode": "sq",
+          "languageName": {
+            "simpleText": "Albanian"
+          }
+        },
+        {
+          "languageCode": "am",
+          "languageName": {
+            "simpleText": "Amharic"
+          }
+        },
+        {
+          "languageCode": "ar",
+          "languageName": {
+            "simpleText": "Arabic"
+          }
+        },
+        {
+          "languageCode": "hy",
+          "languageName": {
+            "simpleText": "Armenian"
+          }
+        },
+        {
+          "languageCode": "az",
+          "languageName": {
+            "simpleText": "Azerbaijani"
+          }
+        },
+        {
+          "languageCode": "bn",
+          "languageName": {
+            "simpleText": "Bangla"
+          }
+        },
+        {
+          "languageCode": "eu",
+          "languageName": {
+            "simpleText": "Basque"
+          }
+        },
+        {
+          "languageCode": "be",
+          "languageName": {
+            "simpleText": "Belarusian"
+          }
+        },
+        {
+          "languageCode": "bs",
+          "languageName": {
+            "simpleText": "Bosnian"
+          }
+        },
+        {
+          "languageCode": "bg",
+          "languageName": {
+            "simpleText": "Bulgarian"
+          }
+        },
+        {
+          "languageCode": "my",
+          "languageName": {
+            "simpleText": "Burmese"
+          }
+        },
+        {
+          "languageCode": "ca",
+          "languageName": {
+            "simpleText": "Catalan"
+          }
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": {
+            "simpleText": "Cebuano"
+          }
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": {
+            "simpleText": "Chinese (Simplified)"
+          }
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": {
+            "simpleText": "Chinese (Traditional)"
+          }
+        },
+        {
+          "languageCode": "co",
+          "languageName": {
+            "simpleText": "Corsican"
+          }
+        },
+        {
+          "languageCode": "hr",
+          "languageName": {
+            "simpleText": "Croatian"
+          }
+        },
+        {
+          "languageCode": "cs",
+          "languageName": {
+            "simpleText": "Czech"
+          }
+        },
+        {
+          "languageCode": "da",
+          "languageName": {
+            "simpleText": "Danish"
+          }
+        },
+        {
+          "languageCode": "nl",
+          "languageName": {
+            "simpleText": "Dutch"
+          }
+        },
+        {
+          "languageCode": "en",
+          "languageName": {
+            "simpleText": "English"
+          }
+        },
+        {
+          "languageCode": "eo",
+          "languageName": {
+            "simpleText": "Esperanto"
+          }
+        },
+        {
+          "languageCode": "et",
+          "languageName": {
+            "simpleText": "Estonian"
+          }
+        },
+        {
+          "languageCode": "fil",
+          "languageName": {
+            "simpleText": "Filipino"
+          }
+        },
+        {
+          "languageCode": "fi",
+          "languageName": {
+            "simpleText": "Finnish"
+          }
+        },
+        {
+          "languageCode": "fr",
+          "languageName": {
+            "simpleText": "French"
+          }
+        },
+        {
+          "languageCode": "gl",
+          "languageName": {
+            "simpleText": "Galician"
+          }
+        },
+        {
+          "languageCode": "ka",
+          "languageName": {
+            "simpleText": "Georgian"
+          }
+        },
+        {
+          "languageCode": "de",
+          "languageName": {
+            "simpleText": "German"
+          }
+        },
+        {
+          "languageCode": "el",
+          "languageName": {
+            "simpleText": "Greek"
+          }
+        },
+        {
+          "languageCode": "gu",
+          "languageName": {
+            "simpleText": "Gujarati"
+          }
+        },
+        {
+          "languageCode": "ht",
+          "languageName": {
+            "simpleText": "Haitian Creole"
+          }
+        },
+        {
+          "languageCode": "ha",
+          "languageName": {
+            "simpleText": "Hausa"
+          }
+        },
+        {
+          "languageCode": "haw",
+          "languageName": {
+            "simpleText": "Hawaiian"
+          }
+        },
+        {
+          "languageCode": "iw",
+          "languageName": {
+            "simpleText": "Hebrew"
+          }
+        },
+        {
+          "languageCode": "hi",
+          "languageName": {
+            "simpleText": "Hindi"
+          }
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": {
+            "simpleText": "Hmong"
+          }
+        },
+        {
+          "languageCode": "hu",
+          "languageName": {
+            "simpleText": "Hungarian"
+          }
+        },
+        {
+          "languageCode": "is",
+          "languageName": {
+            "simpleText": "Icelandic"
+          }
+        },
+        {
+          "languageCode": "ig",
+          "languageName": {
+            "simpleText": "Igbo"
+          }
+        },
+        {
+          "languageCode": "id",
+          "languageName": {
+            "simpleText": "Indonesian"
+          }
+        },
+        {
+          "languageCode": "ga",
+          "languageName": {
+            "simpleText": "Irish"
+          }
+        },
+        {
+          "languageCode": "it",
+          "languageName": {
+            "simpleText": "Italian"
+          }
+        },
+        {
+          "languageCode": "ja",
+          "languageName": {
+            "simpleText": "Japanese"
+          }
+        },
+        {
+          "languageCode": "jv",
+          "languageName": {
+            "simpleText": "Javanese"
+          }
+        },
+        {
+          "languageCode": "kn",
+          "languageName": {
+            "simpleText": "Kannada"
+          }
+        },
+        {
+          "languageCode": "kk",
+          "languageName": {
+            "simpleText": "Kazakh"
+          }
+        },
+        {
+          "languageCode": "km",
+          "languageName": {
+            "simpleText": "Khmer"
+          }
+        },
+        {
+          "languageCode": "rw",
+          "languageName": {
+            "simpleText": "Kinyarwanda"
+          }
+        },
+        {
+          "languageCode": "ko",
+          "languageName": {
+            "simpleText": "Korean"
+          }
+        },
+        {
+          "languageCode": "ku",
+          "languageName": {
+            "simpleText": "Kurdish"
+          }
+        },
+        {
+          "languageCode": "ky",
+          "languageName": {
+            "simpleText": "Kyrgyz"
+          }
+        },
+        {
+          "languageCode": "lo",
+          "languageName": {
+            "simpleText": "Lao"
+          }
+        },
+        {
+          "languageCode": "la",
+          "languageName": {
+            "simpleText": "Latin"
+          }
+        },
+        {
+          "languageCode": "lv",
+          "languageName": {
+            "simpleText": "Latvian"
+          }
+        },
+        {
+          "languageCode": "lt",
+          "languageName": {
+            "simpleText": "Lithuanian"
+          }
+        },
+        {
+          "languageCode": "lb",
+          "languageName": {
+            "simpleText": "Luxembourgish"
+          }
+        },
+        {
+          "languageCode": "mk",
+          "languageName": {
+            "simpleText": "Macedonian"
+          }
+        },
+        {
+          "languageCode": "mg",
+          "languageName": {
+            "simpleText": "Malagasy"
+          }
+        },
+        {
+          "languageCode": "ms",
+          "languageName": {
+            "simpleText": "Malay"
+          }
+        },
+        {
+          "languageCode": "ml",
+          "languageName": {
+            "simpleText": "Malayalam"
+          }
+        },
+        {
+          "languageCode": "mt",
+          "languageName": {
+            "simpleText": "Maltese"
+          }
+        },
+        {
+          "languageCode": "mi",
+          "languageName": {
+            "simpleText": "Maori"
+          }
+        },
+        {
+          "languageCode": "mr",
+          "languageName": {
+            "simpleText": "Marathi"
+          }
+        },
+        {
+          "languageCode": "mn",
+          "languageName": {
+            "simpleText": "Mongolian"
+          }
+        },
+        {
+          "languageCode": "ne",
+          "languageName": {
+            "simpleText": "Nepali"
+          }
+        },
+        {
+          "languageCode": "no",
+          "languageName": {
+            "simpleText": "Norwegian"
+          }
+        },
+        {
+          "languageCode": "ny",
+          "languageName": {
+            "simpleText": "Nyanja"
+          }
+        },
+        {
+          "languageCode": "or",
+          "languageName": {
+            "simpleText": "Odia"
+          }
+        },
+        {
+          "languageCode": "ps",
+          "languageName": {
+            "simpleText": "Pashto"
+          }
+        },
+        {
+          "languageCode": "fa",
+          "languageName": {
+            "simpleText": "Persian"
+          }
+        },
+        {
+          "languageCode": "pl",
+          "languageName": {
+            "simpleText": "Polish"
+          }
+        },
+        {
+          "languageCode": "pt",
+          "languageName": {
+            "simpleText": "Portuguese"
+          }
+        },
+        {
+          "languageCode": "pa",
+          "languageName": {
+            "simpleText": "Punjabi"
+          }
+        },
+        {
+          "languageCode": "ro",
+          "languageName": {
+            "simpleText": "Romanian"
+          }
+        },
+        {
+          "languageCode": "ru",
+          "languageName": {
+            "simpleText": "Russian"
+          }
+        },
+        {
+          "languageCode": "sm",
+          "languageName": {
+            "simpleText": "Samoan"
+          }
+        },
+        {
+          "languageCode": "gd",
+          "languageName": {
+            "simpleText": "Scottish Gaelic"
+          }
+        },
+        {
+          "languageCode": "sr",
+          "languageName": {
+            "simpleText": "Serbian"
+          }
+        },
+        {
+          "languageCode": "sn",
+          "languageName": {
+            "simpleText": "Shona"
+          }
+        },
+        {
+          "languageCode": "sd",
+          "languageName": {
+            "simpleText": "Sindhi"
+          }
+        },
+        {
+          "languageCode": "si",
+          "languageName": {
+            "simpleText": "Sinhala"
+          }
+        },
+        {
+          "languageCode": "sk",
+          "languageName": {
+            "simpleText": "Slovak"
+          }
+        },
+        {
+          "languageCode": "sl",
+          "languageName": {
+            "simpleText": "Slovenian"
+          }
+        },
+        {
+          "languageCode": "so",
+          "languageName": {
+            "simpleText": "Somali"
+          }
+        },
+        {
+          "languageCode": "st",
+          "languageName": {
+            "simpleText": "Southern Sotho"
+          }
+        },
+        {
+          "languageCode": "es",
+          "languageName": {
+            "simpleText": "Spanish"
+          }
+        },
+        {
+          "languageCode": "su",
+          "languageName": {
+            "simpleText": "Sundanese"
+          }
+        },
+        {
+          "languageCode": "sw",
+          "languageName": {
+            "simpleText": "Swahili"
+          }
+        },
+        {
+          "languageCode": "sv",
+          "languageName": {
+            "simpleText": "Swedish"
+          }
+        },
+        {
+          "languageCode": "tg",
+          "languageName": {
+            "simpleText": "Tajik"
+          }
+        },
+        {
+          "languageCode": "ta",
+          "languageName": {
+            "simpleText": "Tamil"
+          }
+        },
+        {
+          "languageCode": "tt",
+          "languageName": {
+            "simpleText": "Tatar"
+          }
+        },
+        {
+          "languageCode": "te",
+          "languageName": {
+            "simpleText": "Telugu"
+          }
+        },
+        {
+          "languageCode": "th",
+          "languageName": {
+            "simpleText": "Thai"
+          }
+        },
+        {
+          "languageCode": "tr",
+          "languageName": {
+            "simpleText": "Turkish"
+          }
+        },
+        {
+          "languageCode": "tk",
+          "languageName": {
+            "simpleText": "Turkmen"
+          }
+        },
+        {
+          "languageCode": "uk",
+          "languageName": {
+            "simpleText": "Ukrainian"
+          }
+        },
+        {
+          "languageCode": "ur",
+          "languageName": {
+            "simpleText": "Urdu"
+          }
+        },
+        {
+          "languageCode": "ug",
+          "languageName": {
+            "simpleText": "Uyghur"
+          }
+        },
+        {
+          "languageCode": "uz",
+          "languageName": {
+            "simpleText": "Uzbek"
+          }
+        },
+        {
+          "languageCode": "vi",
+          "languageName": {
+            "simpleText": "Vietnamese"
+          }
+        },
+        {
+          "languageCode": "cy",
+          "languageName": {
+            "simpleText": "Welsh"
+          }
+        },
+        {
+          "languageCode": "fy",
+          "languageName": {
+            "simpleText": "Western Frisian"
+          }
+        },
+        {
+          "languageCode": "xh",
+          "languageName": {
+            "simpleText": "Xhosa"
+          }
+        },
+        {
+          "languageCode": "yi",
+          "languageName": {
+            "simpleText": "Yiddish"
+          }
+        },
+        {
+          "languageCode": "yo",
+          "languageName": {
+            "simpleText": "Yoruba"
+          }
+        },
+        {
+          "languageCode": "zu",
+          "languageName": {
+            "simpleText": "Zulu"
+          }
+        }
+      ],
+      "defaultAudioTrackIndex": 0
+    }
+  },
+  "videoDetails": {
+    "videoId": "fQf_12r_Z8I",
+    "title": "MOVING VLOG in FRENCH!! 🏡 // empty apartment tour + all the French vocab you need to know! 🇫🇷",
+    "lengthSeconds": "696",
+    "keywords": [
+      "learn french",
+      "intermediate french",
+      "improve french",
+      "learning french",
+      "french video",
+      "french teacher",
+      "french vlog with english subtitles",
+      "french vlog with subtitles",
+      "french native speaker",
+      "french vlog",
+      "french youtubers with english subtitles",
+      "french videos with french subtitles",
+      "piece of french",
+      "french listening practice",
+      "french vlogs",
+      "moving vlog in french",
+      "french house vocabulary",
+      "rooms of the house in french",
+      "les pièces de la maison",
+      "basic french vocabulary"
+    ],
+    "channelId": "UCVzyfpNuFF4ENY8zNTIW7ug",
+    "isOwnerViewing": false,
+    "shortDescription": "Today is MOVING day!! We are so excited to be moving to a bigger apartment and it's the perfect occasion to teach you some daily French vocabulary! \n\n► SUBSCRIBE for a new video every Wednesday: http://bit.ly/2PqFvh2​\n► WEBSITE: https://www.pieceoffrench.com/\n► INSTGRAM: @piece_of_french\n\nWATCH MORE FRENCH VLOGS\n○ GET READY WITH US in FRENCH for a FRENCH WEDDING (English subtitles): https://youtu.be/uEgRCEGYBWU\n○ FRENCH VLOG in PROVENCE with English subtitles // Celebrating French National Day in Aix-en-Provence: https://youtu.be/xHi_vL2fzwQ\n○ We're *finally* leaving!! // intermediate FRENCH VLOG with english subtitles: https://youtu.be/oQ7d07k53RE\n○ \n\nMUSIC\nLe Temps est Bon - Bon Entendeur\nDuck in a Box - Jobii\nWillow Trees - Guustavv\nYou Shine on Me - par\nBe Mine For a While - Blue Topaz\n\nFind copyright free music for your YouTube videos on Epidemic Sound: https://www.epidemicsound.com/referral/zvec47/\n\nUSEFUL RESOURCES:\n○ italki - find a private French tutor: http://go.italki.com/pieceoffrench (get $10 credits after your first purchase)\n○ Hellotalk - find a language partner (free!) : https://brc.hellotalk.com/YouTube_Elsa\n○ Quizlet - flashcard app (free!): https://quizlet.com/referral-invite/pieceoffrench?i=3c7doa&x=1Nqt\n○ NordVPN - watch French TV shows from wherever you are in the world: https://nordvpn.com/pieceoffrench or use coupon code pieceoffrench\n\nRECOMMENDED BOOKS (for beginners / intermediate learners) \n○ My favorite grammar book (A1-B1): https://geni.us/hwpI (Amazon)\n○ Collection Lire en français facile (A1-B2): https://geni.us/zs8187l (Amazon)\n○ Ratatouille: https://geni.us/gDbYj (Amazon)\n○ Le Petit Nicolas: https://geni.us/2bBDPX4 (Amazon)\n\nMY FAVORITE FRENCH READS! (for advanced learners)\n○ Les Antisèches du bonheur: https://geni.us/Kbmb (Amazon)\n○ La Verité sur l'Affaire Harry Quebert: https://geni.us/uLVdOmA (Amazon)\n○ Changer l'eau des fleurs: https://geni.us/Q8i4DcU (Amazon)\n○ Au revoir là-haut: https://geni.us/GrsgT (Amazon)\nAnd my best advice: read & listen at the same time, this will allow you to expand your vocabulary, learn grammar naturally and improve your pronunciation in no time! You can find French audiobooks on Audible: https://amzn.to/2RVaSUQ\n\nMY  EQUIPMENT\n○ My computer (I love it, it's so light!): https://geni.us/mxjxdI (Amazon)\n○ My phone (I film all my videos with it!): https://geni.us/nsOrS (Amazon)\n○ Tripod: https://geni.us/3HN9s (Amazon)\n○ Mini-Tripod: https://geni.us/4Pan (Amazon)\n○ U Rig for Smartphone: https://geni.us/mhlUW (Amazon)\n○ Lav Microphone: https://geni.us/5kucoA (Amazon)\n○ Dual Lav Microphone (great for conversations!): https://geni.us/arVe (Amazon)\n○ Gimbal (perfect for vlogging to stabilize the phone): https://geni.us/3SHO1V (Amazon)\n○ Wireless Vertical Mouse: https://geni.us/g4t1Q (Amazon)\n○ Wireless Keyboard: https://geni.us/KpMd (Amazon)\n\nABOUT PIECE OF FRENCH\nWelcome to Piece of French, an immersive French learning experience! \nFollow me in my daily life as a native French speaker and learn French as it is actually spoken by real people. Gain vocabulary and master new idoms in their context, while improving your comprehension and pronunciation skills. Piece of French videos are more targeted at intermediate French learners.\nFrench video with English subtitles and French subtitles! Learn French in a fun and authentic way thanks to real-life videos with a native French speaker!\n\nDISCLAIMER: Links included in this description might be affiliate links. If you purchase a product or service with the links that I provide I may receive a small commission. There is no additional charge to you! Thank you for supporting my channel so I can continue to provide you with free content each week!\n\n#movingvlog #french #apartmenttour",
+    "isCrawlable": true,
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/fQf_12r_Z8I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAluD3-_U3ZOajvWY7HfhFjq5mYJA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fQf_12r_Z8I/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfKSlrREaUXb_OX4kjqF2nHWAlCg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fQf_12r_Z8I/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLClKuTn8mZjh14tGhqJlI3RqjueHQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fQf_12r_Z8I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnUfbiRwTo5IY3rPOcUbbweQVxZw",
+          "width": 336,
+          "height": 188
+        },
+        {
+          "url": "https://i.ytimg.com/vi/fQf_12r_Z8I/maxresdefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "averageRating": 4.9927754,
+    "allowRatings": true,
+    "viewCount": "19130",
+    "author": "Piece of French",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false
+  },
+  "annotations": [
+    {
+      "playerAnnotationsExpandedRenderer": {
+        "featuredChannel": {
+          "startTimeMs": "0",
+          "endTimeMs": "675000",
+          "watermark": {
+            "thumbnails": [
+              {
+                "url": "https://i.ytimg.com/an/VzyfpNuFF4ENY8zNTIW7ug/featured_channel.jpg?v=5e2e94e5",
+                "width": 40,
+                "height": 40
+              }
+            ]
+          },
+          "trackingParams": "CB8Q8zciEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+          "navigationEndpoint": {
+            "clickTrackingParams": "CB8Q8zciEwiStNOJ6JvzAhUrhlYBHRJlB_4yAml2",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/channel/UCVzyfpNuFF4ENY8zNTIW7ug",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611,
+                "apiUrl": "/youtubei/v1/browse"
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCVzyfpNuFF4ENY8zNTIW7ug"
+            }
+          },
+          "channelName": "Piece of French",
+          "subscribeButton": {
+            "subscribeButtonRenderer": {
+              "buttonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              "subscribed": false,
+              "enabled": true,
+              "type": "FREE",
+              "channelId": "UCVzyfpNuFF4ENY8zNTIW7ug",
+              "showPreferences": false,
+              "subscribedButtonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBED"
+                  }
+                ]
+              },
+              "unsubscribedButtonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              "trackingParams": "CCAQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4yAml2",
+              "unsubscribeButtonText": {
+                "runs": [
+                  {
+                    "text": "UNSUBSCRIBE"
+                  }
+                ]
+              },
+              "serviceEndpoints": [
+                {
+                  "clickTrackingParams": "CCAQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4yAml2",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true,
+                      "apiUrl": "/youtubei/v1/subscription/subscribe"
+                    }
+                  },
+                  "subscribeEndpoint": {
+                    "channelIds": [
+                      "UCVzyfpNuFF4ENY8zNTIW7ug"
+                    ],
+                    "params": "EgIIBBgA"
+                  }
+                },
+                {
+                  "clickTrackingParams": "CCAQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CCAQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                        "openPopupAction": {
+                          "popup": {
+                            "confirmDialogRenderer": {
+                              "trackingParams": "CCEQxjgiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                              "dialogMessages": [
+                                {
+                                  "runs": [
+                                    {
+                                      "text": "Unsubscribe from "
+                                    },
+                                    {
+                                      "text": "Piece of French"
+                                    },
+                                    {
+                                      "text": "?"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "confirmButton": {
+                                "buttonRenderer": {
+                                  "style": "STYLE_BLUE_TEXT",
+                                  "size": "SIZE_DEFAULT",
+                                  "isDisabled": false,
+                                  "text": {
+                                    "runs": [
+                                      {
+                                        "text": "Unsubscribe"
+                                      }
+                                    ]
+                                  },
+                                  "serviceEndpoint": {
+                                    "clickTrackingParams": "CCMQ8FsiEwiStNOJ6JvzAhUrhlYBHRJlB_4yAml2",
+                                    "commandMetadata": {
+                                      "webCommandMetadata": {
+                                        "sendPost": true,
+                                        "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+                                      }
+                                    },
+                                    "unsubscribeEndpoint": {
+                                      "channelIds": [
+                                        "UCVzyfpNuFF4ENY8zNTIW7ug"
+                                      ],
+                                      "params": "CgIIBBgA"
+                                    }
+                                  },
+                                  "accessibility": {
+                                    "label": "Unsubscribe"
+                                  },
+                                  "trackingParams": "CCMQ8FsiEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+                                }
+                              },
+                              "cancelButton": {
+                                "buttonRenderer": {
+                                  "style": "STYLE_TEXT",
+                                  "size": "SIZE_DEFAULT",
+                                  "isDisabled": false,
+                                  "text": {
+                                    "runs": [
+                                      {
+                                        "text": "Cancel"
+                                      }
+                                    ]
+                                  },
+                                  "accessibility": {
+                                    "label": "Cancel"
+                                  },
+                                  "trackingParams": "CCIQ8FsiEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+                                }
+                              },
+                              "primaryIsCancel": false
+                            }
+                          },
+                          "popupType": "DIALOG"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "subscribeAccessibility": {
+                "accessibilityData": {
+                  "label": "Subscribe to Piece of French."
+                }
+              },
+              "unsubscribeAccessibility": {
+                "accessibilityData": {
+                  "label": "Unsubscribe from Piece of French."
+                }
+              },
+              "signInEndpoint": {
+                "clickTrackingParams": "CCAQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCVzyfpNuFF4ENY8zNTIW7ug%26feature%3Div%26continue_action%3DQUFFLUhqbXluX0s2ZGFMVXp4MjZza052UlMxRW1xM1FxQXxBQ3Jtc0tuWUdPQTU2LTN2UFo5eFd1X3lUWU9BalFrMVhjbmFzUkRVUnVfaXBtR3ZhLWs5OGRtVWN4Z3lxMnNzeERubThnbDQ0aWlVLTMzNGZnY3dJMEhlV1RtRV9Ydm9SY1hRNWxIRVctdnRTXzlqakFCZExvN250aWFRQ1lDSnZYQnNBMUZuSUxoX2tTRjNIQXMzaGRTRjdUa3RDUG1VTFJmOE9hQ1M3WUcyWkxxRGp0Uk1BNkUtT3ppcTM4SF81Wi16NkRoZnM1TlI%253D&hl=en"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "allowSwipeDismiss": true,
+        "annotationId": "5df38983-0000-2885-9fcf-f403045ce712"
+      }
+    }
+  ],
+  "playerConfig": {
+    "audioConfig": {
+      "loudnessDb": -0.89000034,
+      "perceptualLoudnessDb": -14.89,
+      "enablePerFormatLoudness": true
+    },
+    "streamSelectionConfig": {
+      "maxBitrate": "9730000"
+    },
+    "daiConfig": {
+      "enableServerStitchedDai": false
+    },
+    "mediaCommonConfig": {
+      "dynamicReadaheadConfig": {
+        "maxReadAheadMediaTimeMs": 120000,
+        "minReadAheadMediaTimeMs": 15000,
+        "readAheadGrowthRateMs": 1000
+      }
+    },
+    "webPlayerConfig": {
+      "webPlayerActionsPorting": {
+        "getSharePanelCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/share/get_web_player_share_panel"
+            }
+          },
+          "webPlayerShareEntityServiceEndpoint": {
+            "serializedShareEntity": "CgtmUWZfMTJyX1o4SQ%3D%3D"
+          }
+        },
+        "subscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/subscribe"
+            }
+          },
+          "subscribeEndpoint": {
+            "channelIds": [
+              "UCVzyfpNuFF4ENY8zNTIW7ug"
+            ],
+            "params": "EgIIBxgA"
+          }
+        },
+        "unsubscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+            }
+          },
+          "unsubscribeEndpoint": {
+            "channelIds": [
+              "UCVzyfpNuFF4ENY8zNTIW7ug"
+            ],
+            "params": "CgIIBxgA"
+          }
+        },
+        "addToWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "addedVideoId": "fQf_12r_Z8I",
+                "action": "ACTION_ADD_VIDEO"
+              }
+            ]
+          }
+        },
+        "removeFromWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                "removedVideoId": "fQf_12r_Z8I"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "storyboards": {
+    "playerStoryboardSpecRenderer": {
+      "spec": "https://i.ytimg.com/sb/fQf_12r_Z8I/storyboard3_L$L/$N.jpg?sqp=-oaymwGbA0g48quKqQOSA4gBAZUBAAAEQpgBMqABPKgBBLABELABDbABDLABELABFbABH7ABJrABLbABDrABDrABD7ABErABF7ABK7ABLLABKbABD7ABDrABELABFbABH7ABKrABMrABKbABD7ABEbABFLABGLABJrABPbABOLABLbABEbABFLABHrABKrABMbABS7ABR7ABNrABFbABHLABKbABLrABObABR7ABTbABP7ABJbABLrABN7ABPbABR7ABUrABUbABRbABM7ABQLABQrABQ7ABTLABRLABRrABQ7gBEbgBEbgBFbgBI7gBRLgBQ7gBQ7gBQ7gBEbgBE7gBFrgBL7gBQ7gBQ7gBQ7gBQ7gBFbgBFrgBKbgBQ7gBQ7gBQ7gBQ7gBQ7gBI7gBL7gBQ7gBQ7gBQ7gBQ7gBQ7gBQ7gBRLgBQ7gBQ7gBQ7gBQ7gBQ7gBQrgBQrgBQ7gBQ7gBQ7gBQ7gBQ7gBQrgBQrgBQrgBQ7gBQ7gBQ7gBQ7gBQrgBQrgBQrgBQrgBQ7gBQ7gBQ7gBQrgBQrgBQrgBQrgBQqLzl_8DBgix8_GJBg==|48#27#100#10#10#0#default#rs$AOn4CLDtottoCkjHB7HNmewdYrSKNNRVBw|80#45#141#10#10#5000#M$M#rs$AOn4CLCWOcVCWR6cIexeRie8aOIRumL3PQ|160#90#141#5#5#5000#M$M#rs$AOn4CLAKPKdIskRcIlWULGrEYtqut0xhKQ"
+    }
+  },
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/fQf_12r_Z8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      "embed": {
+        "iframeUrl": "https://www.youtube.com/embed/fQf_12r_Z8I",
+        "flashUrl": "http://www.youtube.com/v/fQf_12r_Z8I?version=3&autohide=1",
+        "width": 1280,
+        "height": 720,
+        "flashSecureUrl": "https://www.youtube.com/v/fQf_12r_Z8I?version=3&autohide=1"
+      },
+      "title": {
+        "simpleText": "MOVING VLOG in FRENCH!! 🏡 // empty apartment tour + all the French vocab you need to know! 🇫🇷"
+      },
+      "description": {
+        "simpleText": "Today is MOVING day!! We are so excited to be moving to a bigger apartment and it's the perfect occasion to teach you some daily French vocabulary! \n\n► SUBSCRIBE for a new video every Wednesday: http://bit.ly/2PqFvh2​\n► WEBSITE: https://www.pieceoffrench.com/\n► INSTGRAM: @piece_of_french\n\nWATCH MORE FRENCH VLOGS\n○ GET READY WITH US in FRENCH for a FRENCH WEDDING (English subtitles): https://youtu.be/uEgRCEGYBWU\n○ FRENCH VLOG in PROVENCE with English subtitles // Celebrating French National Day in Aix-en-Provence: https://youtu.be/xHi_vL2fzwQ\n○ We're *finally* leaving!! // intermediate FRENCH VLOG with english subtitles: https://youtu.be/oQ7d07k53RE\n○ \n\nMUSIC\nLe Temps est Bon - Bon Entendeur\nDuck in a Box - Jobii\nWillow Trees - Guustavv\nYou Shine on Me - par\nBe Mine For a While - Blue Topaz\n\nFind copyright free music for your YouTube videos on Epidemic Sound: https://www.epidemicsound.com/referral/zvec47/\n\nUSEFUL RESOURCES:\n○ italki - find a private French tutor: http://go.italki.com/pieceoffrench (get $10 credits after your first purchase)\n○ Hellotalk - find a language partner (free!) : https://brc.hellotalk.com/YouTube_Elsa\n○ Quizlet - flashcard app (free!): https://quizlet.com/referral-invite/pieceoffrench?i=3c7doa&x=1Nqt\n○ NordVPN - watch French TV shows from wherever you are in the world: https://nordvpn.com/pieceoffrench or use coupon code pieceoffrench\n\nRECOMMENDED BOOKS (for beginners / intermediate learners) \n○ My favorite grammar book (A1-B1): https://geni.us/hwpI (Amazon)\n○ Collection Lire en français facile (A1-B2): https://geni.us/zs8187l (Amazon)\n○ Ratatouille: https://geni.us/gDbYj (Amazon)\n○ Le Petit Nicolas: https://geni.us/2bBDPX4 (Amazon)\n\nMY FAVORITE FRENCH READS! (for advanced learners)\n○ Les Antisèches du bonheur: https://geni.us/Kbmb (Amazon)\n○ La Verité sur l'Affaire Harry Quebert: https://geni.us/uLVdOmA (Amazon)\n○ Changer l'eau des fleurs: https://geni.us/Q8i4DcU (Amazon)\n○ Au revoir là-haut: https://geni.us/GrsgT (Amazon)\nAnd my best advice: read & listen at the same time, this will allow you to expand your vocabulary, learn grammar naturally and improve your pronunciation in no time! You can find French audiobooks on Audible: https://amzn.to/2RVaSUQ\n\nMY  EQUIPMENT\n○ My computer (I love it, it's so light!): https://geni.us/mxjxdI (Amazon)\n○ My phone (I film all my videos with it!): https://geni.us/nsOrS (Amazon)\n○ Tripod: https://geni.us/3HN9s (Amazon)\n○ Mini-Tripod: https://geni.us/4Pan (Amazon)\n○ U Rig for Smartphone: https://geni.us/mhlUW (Amazon)\n○ Lav Microphone: https://geni.us/5kucoA (Amazon)\n○ Dual Lav Microphone (great for conversations!): https://geni.us/arVe (Amazon)\n○ Gimbal (perfect for vlogging to stabilize the phone): https://geni.us/3SHO1V (Amazon)\n○ Wireless Vertical Mouse: https://geni.us/g4t1Q (Amazon)\n○ Wireless Keyboard: https://geni.us/KpMd (Amazon)\n\nABOUT PIECE OF FRENCH\nWelcome to Piece of French, an immersive French learning experience! \nFollow me in my daily life as a native French speaker and learn French as it is actually spoken by real people. Gain vocabulary and master new idoms in their context, while improving your comprehension and pronunciation skills. Piece of French videos are more targeted at intermediate French learners.\nFrench video with English subtitles and French subtitles! Learn French in a fun and authentic way thanks to real-life videos with a native French speaker!\n\nDISCLAIMER: Links included in this description might be affiliate links. If you purchase a product or service with the links that I provide I may receive a small commission. There is no additional charge to you! Thank you for supporting my channel so I can continue to provide you with free content each week!\n\n#movingvlog #french #apartmenttour"
+      },
+      "lengthSeconds": "696",
+      "ownerProfileUrl": "http://www.youtube.com/channel/UCVzyfpNuFF4ENY8zNTIW7ug",
+      "externalChannelId": "UCVzyfpNuFF4ENY8zNTIW7ug",
+      "isFamilySafe": true,
+      "availableCountries": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AI",
+        "AL",
+        "AM",
+        "AO",
+        "AQ",
+        "AR",
+        "AS",
+        "AT",
+        "AU",
+        "AW",
+        "AX",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BL",
+        "BM",
+        "BN",
+        "BO",
+        "BQ",
+        "BR",
+        "BS",
+        "BT",
+        "BV",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CC",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CK",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CW",
+        "CX",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "EH",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FK",
+        "FM",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GL",
+        "GM",
+        "GN",
+        "GP",
+        "GQ",
+        "GR",
+        "GS",
+        "GT",
+        "GU",
+        "GW",
+        "GY",
+        "HK",
+        "HM",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IO",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MF",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MP",
+        "MQ",
+        "MR",
+        "MS",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NF",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NU",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PM",
+        "PN",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SH",
+        "SI",
+        "SJ",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SX",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TF",
+        "TG",
+        "TH",
+        "TJ",
+        "TK",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UM",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VI",
+        "VN",
+        "VU",
+        "WF",
+        "WS",
+        "YE",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "isUnlisted": false,
+      "hasYpcMetadata": false,
+      "viewCount": "19130",
+      "category": "Education",
+      "publishDate": "2021-09-15",
+      "ownerChannelName": "Piece of French",
+      "uploadDate": "2021-09-15"
+    }
+  },
+  "cards": {
+    "cardCollectionRenderer": {
+      "cards": [
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "Suggested: FRENCH CHIT-CHAT ☕ A much needed life update! // Intermediate French Listening Practice"
+                },
+                "trackingParams": "CB4Q0DYiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                "prominent": true,
+                "logVisibilityUpdates": true
+              }
+            },
+            "content": {
+              "videoInfoCardContentRenderer": {
+                "videoThumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/IdP25IQYZNY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCY86IkNd1nmQqZxeHEkjx7QFGq3w",
+                      "width": 168,
+                      "height": 94
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/IdP25IQYZNY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDhee7cjKUP7UH6FRzjMZGwLLOtZw",
+                      "width": 196,
+                      "height": 110
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/IdP25IQYZNY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC6R-we3cJnuo1aEOpscogeTHwl9A",
+                      "width": 246,
+                      "height": 138
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/IdP25IQYZNY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvsjgcMGftG2KnB3yRALlEEGylMA",
+                      "width": 336,
+                      "height": 188
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/IdP25IQYZNY/maxresdefault.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    }
+                  ]
+                },
+                "lengthString": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "9 minutes, 12 seconds"
+                    }
+                  },
+                  "simpleText": "9:12"
+                },
+                "videoTitle": {
+                  "simpleText": "FRENCH CHIT-CHAT ☕ A much needed life update! // Intermediate French Listening Practice"
+                },
+                "channelName": {
+                  "simpleText": "by Piece of French"
+                },
+                "viewCountText": {
+                  "simpleText": "31,342 views"
+                },
+                "action": {
+                  "clickTrackingParams": "CB0Q1TYiEwiStNOJ6JvzAhUrhlYBHRJlB_4yBWNhcmRzSMLP_df2-v-DfQ==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=IdP25IQYZNY",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "IdP25IQYZNY",
+                    "watchEndpointSupportedOnesieConfig": {
+                      "html5PlaybackOnesieConfig": {
+                        "commonConfig": {
+                          "url": "https://r4---sn-ogueln7s.googlevideo.com/initplayback?source=youtube&orc=1&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odeak=1&odepv=1&osfc=1&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=21d3f6e4841864d6&initcwndbps=1216250&mt=1632630764&oweuc=&pxtags=Cg4KAnR4EggyMzk5Nzk3MA&rxtags=Cg4KAnR4EggyMzk5Nzk3MA%2CCg4KAnR4EggyNDAwODEwOA"
+                        }
+                      }
+                    }
+                  }
+                },
+                "trackingParams": "CB0Q1TYiEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "149848",
+                "endCardActiveMs": "154848",
+                "teaserDurationMs": "7000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "icon": {
+              "infoCardIconRenderer": {
+                "trackingParams": "CBwQsJcBIhMIkrTTieib8wIVK4ZWAR0SZQf-"
+              }
+            },
+            "trackingParams": "CBsQwJcBGAAiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+            "cardId": "10139717983954796830",
+            "feature": "cards"
+          }
+        },
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "Suggested: SPRING CLEAN with me in FRENCH! (English subtitles)"
+                },
+                "trackingParams": "CBoQ0DYiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                "prominent": true,
+                "logVisibilityUpdates": true
+              }
+            },
+            "content": {
+              "videoInfoCardContentRenderer": {
+                "videoThumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/-w7Mzk7udcc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDY6xwsLnEx9wdctQUluacIhu5GYQ",
+                      "width": 168,
+                      "height": 94
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/-w7Mzk7udcc/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBlCta0QaIxAsTWG4PEGpDM9ZyS4A",
+                      "width": 196,
+                      "height": 110
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/-w7Mzk7udcc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRU98Bz_ki0an-8MYZICYy20oc_A",
+                      "width": 246,
+                      "height": 138
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/-w7Mzk7udcc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQHVG33irIOOVg6HrtH7AJEaklOw",
+                      "width": 336,
+                      "height": 188
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/-w7Mzk7udcc/maxresdefault.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    }
+                  ]
+                },
+                "lengthString": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "11 minutes, 20 seconds"
+                    }
+                  },
+                  "simpleText": "11:20"
+                },
+                "videoTitle": {
+                  "simpleText": "SPRING CLEAN with me in FRENCH! (English subtitles)"
+                },
+                "channelName": {
+                  "simpleText": "by Piece of French"
+                },
+                "viewCountText": {
+                  "simpleText": "29,332 views"
+                },
+                "action": {
+                  "clickTrackingParams": "CBkQ1TYiEwiStNOJ6JvzAhUrhlYBHRJlB_4yBWNhcmRzSMLP_df2-v-DfQ==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=-w7Mzk7udcc",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "-w7Mzk7udcc",
+                    "watchEndpointSupportedOnesieConfig": {
+                      "html5PlaybackOnesieConfig": {
+                        "commonConfig": {
+                          "url": "https://r3---sn-oguelnle.googlevideo.com/initplayback?source=youtube&orc=1&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odeak=1&odepv=1&osfc=1&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=fb0eccce4eee75c7&initcwndbps=1327500&mt=1632630764&oweuc=&pxtags=Cg4KAnR4EggyMzk5Nzk3MA&rxtags=Cg4KAnR4EggyMzk5Nzk3MA%2CCg4KAnR4EggyNDAwODEwOA"
+                        }
+                      }
+                    }
+                  }
+                },
+                "trackingParams": "CBkQ1TYiEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "215187",
+                "endCardActiveMs": "220187",
+                "teaserDurationMs": "7000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "icon": {
+              "infoCardIconRenderer": {
+                "trackingParams": "CBgQsJcBIhMIkrTTieib8wIVK4ZWAR0SZQf-"
+              }
+            },
+            "trackingParams": "CBcQwJcBGAEiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+            "cardId": "10139717983954800583",
+            "feature": "cards"
+          }
+        },
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "Suggested: Speaking ONLY FRENCH To My Boyfriend For ONE WEEK!! (English subtitles)"
+                },
+                "trackingParams": "CBYQ0DYiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                "prominent": true,
+                "logVisibilityUpdates": true
+              }
+            },
+            "content": {
+              "videoInfoCardContentRenderer": {
+                "videoThumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/Dal5kKDR6qw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBWfcH2S4q9HXICs6-sfy96MI6w-g",
+                      "width": 168,
+                      "height": 94
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/Dal5kKDR6qw/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARRbUdtwNahKQOeqLFiKRrwkJtVA",
+                      "width": 196,
+                      "height": 110
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/Dal5kKDR6qw/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcOho8KAgpj7OenHDKAaYb5mbX5Q",
+                      "width": 246,
+                      "height": 138
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/Dal5kKDR6qw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYq3MsdxAKb9YC5CQNvyK-x6-9bA",
+                      "width": 336,
+                      "height": 188
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/Dal5kKDR6qw/maxresdefault.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    }
+                  ]
+                },
+                "lengthString": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "16 minutes, 3 seconds"
+                    }
+                  },
+                  "simpleText": "16:03"
+                },
+                "videoTitle": {
+                  "simpleText": "Speaking ONLY FRENCH To My Boyfriend For ONE WEEK!! (English subtitles)"
+                },
+                "channelName": {
+                  "simpleText": "by Piece of French"
+                },
+                "viewCountText": {
+                  "simpleText": "78,748 views"
+                },
+                "action": {
+                  "clickTrackingParams": "CBUQ1TYiEwiStNOJ6JvzAhUrhlYBHRJlB_4yBWNhcmRzSMLP_df2-v-DfQ==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=Dal5kKDR6qw",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "Dal5kKDR6qw",
+                    "watchEndpointSupportedOnesieConfig": {
+                      "html5PlaybackOnesieConfig": {
+                        "commonConfig": {
+                          "url": "https://r6---sn-ogueln7k.googlevideo.com/initplayback?source=youtube&orc=1&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odeak=1&odepv=1&osfc=1&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=0da97990a0d1eaac&initcwndbps=1216250&mt=1632630764&oweuc=&pxtags=Cg4KAnR4EggyMzk5Nzk3MA&rxtags=Cg4KAnR4EggyMzk5Nzk3MA%2CCg4KAnR4EggyNDAwODEwOA"
+                        }
+                      }
+                    }
+                  }
+                },
+                "trackingParams": "CBUQ1TYiEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "310543",
+                "endCardActiveMs": "315543",
+                "teaserDurationMs": "7000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "icon": {
+              "infoCardIconRenderer": {
+                "trackingParams": "CBQQsJcBIhMIkrTTieib8wIVK4ZWAR0SZQf-"
+              }
+            },
+            "trackingParams": "CBMQwJcBGAIiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+            "cardId": "10139717983954800240",
+            "feature": "cards"
+          }
+        },
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "Suggested: What I Eat In A Day In French // My Relationship with Food & Sport + Vegan Lasagna Recipe"
+                },
+                "trackingParams": "CBIQ0DYiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                "prominent": true,
+                "logVisibilityUpdates": true
+              }
+            },
+            "content": {
+              "videoInfoCardContentRenderer": {
+                "videoThumbnail": {
+                  "thumbnails": [
+                    {
+                      "url": "https://i.ytimg.com/vi/fU6SF9vyR9o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAcvmekAuEwJ5ucqK2P7LKiAfT5Og",
+                      "width": 168,
+                      "height": 94
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/fU6SF9vyR9o/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB2z_U58MRDvWl1sxPtdqBdzcGUOg",
+                      "width": 196,
+                      "height": 110
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/fU6SF9vyR9o/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjTpGQrymXxuJRyArR1MNlQ5Q4eg",
+                      "width": 246,
+                      "height": 138
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/fU6SF9vyR9o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB-Oj7JKzWMUr7Mf8U46sZUg8FMJA",
+                      "width": 336,
+                      "height": 188
+                    },
+                    {
+                      "url": "https://i.ytimg.com/vi/fU6SF9vyR9o/maxresdefault.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    }
+                  ]
+                },
+                "lengthString": {
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "13 minutes, 35 seconds"
+                    }
+                  },
+                  "simpleText": "13:35"
+                },
+                "videoTitle": {
+                  "simpleText": "What I Eat In A Day In French // My Relationship with Food & Sport + Vegan Lasagna Recipe"
+                },
+                "channelName": {
+                  "simpleText": "by Piece of French"
+                },
+                "viewCountText": {
+                  "simpleText": "20,438 views"
+                },
+                "action": {
+                  "clickTrackingParams": "CBEQ1TYiEwiStNOJ6JvzAhUrhlYBHRJlB_4yBWNhcmRzSMLP_df2-v-DfQ==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/watch?v=fU6SF9vyR9o",
+                      "webPageType": "WEB_PAGE_TYPE_WATCH",
+                      "rootVe": 3832
+                    }
+                  },
+                  "watchEndpoint": {
+                    "videoId": "fU6SF9vyR9o",
+                    "watchEndpointSupportedOnesieConfig": {
+                      "html5PlaybackOnesieConfig": {
+                        "commonConfig": {
+                          "url": "https://r4---sn-ogul7ne6.googlevideo.com/initplayback?source=youtube&orc=1&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odeak=1&odepv=1&osfc=1&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=7d4e9217dbf247da&initcwndbps=1327500&mt=1632630764&oweuc=&pxtags=Cg4KAnR4EggyMzk5Nzk3MA&rxtags=Cg4KAnR4EggyMzk5Nzk3MA%2CCg4KAnR4EggyNDAwODEwOA"
+                        }
+                      }
+                    }
+                  }
+                },
+                "trackingParams": "CBEQ1TYiEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "533318",
+                "endCardActiveMs": "538318",
+                "teaserDurationMs": "7000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "icon": {
+              "infoCardIconRenderer": {
+                "trackingParams": "CBAQsJcBIhMIkrTTieib8wIVK4ZWAR0SZQf-"
+              }
+            },
+            "trackingParams": "CA8QwJcBGAMiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+            "cardId": "10139717983954799897",
+            "feature": "cards"
+          }
+        }
+      ],
+      "headerText": {
+        "simpleText": "From Piece of French"
+      },
+      "icon": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CA4QsJcBIhMIkrTTieib8wIVK4ZWAR0SZQf-"
+        }
+      },
+      "closeButton": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CA0QsZcBIhMIkrTTieib8wIVK4ZWAR0SZQf-"
+        }
+      },
+      "trackingParams": "CAwQwjciEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+      "allowTeaserDismiss": true,
+      "logIconVisibilityUpdates": true
+    }
+  },
+  "trackingParams": "CAAQu2kiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+  "attestation": {
+    "playerAttestationRenderer": {
+      "challenge": "a=5&a2=1&b=c0Cpup-zasQcdxaIUBq291xa5Xs&c=1632630906&d=1&e=fQf_12r_Z8I&c1a=1&c6a=1&hh=xXE_bzP_wnIY9BM6YcW5wV8jvG6SNp79jyaxWk3Rtjo",
+      "botguardData": {
+        "program": "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",
+        "interpreterUrl": "//www.google.com/js/th/PxKgO0L4LVFhGG72tZdtkRkX920XJx0tR7ZkYMc_JlY.js",
+        "interpreterSafeUrl": {
+          "privateDoNotAccessOrElseTrustedResourceUrlWrappedValue": "//www.google.com/js/th/PxKgO0L4LVFhGG72tZdtkRkX920XJx0tR7ZkYMc_JlY.js"
+        }
+      }
+    }
+  },
+  "messages": [
+    {
+      "mealbarPromoRenderer": {
+        "icon": {
+          "thumbnails": [
+            {
+              "url": "https://www.gstatic.com/youtube/img/promos/growth/6ad5a99c727579634bc3e2fb67562a2621170bdd11578967392667be5a05c5e4_384x384.png",
+              "width": 384,
+              "height": 384
+            }
+          ]
+        },
+        "messageTexts": [
+          {
+            "runs": [
+              {
+                "text": "Get YouTube without the ads"
+              }
+            ]
+          }
+        ],
+        "actionButton": {
+          "buttonRenderer": {
+            "style": "STYLE_BLUE_TEXT",
+            "size": "SIZE_DEFAULT",
+            "text": {
+              "runs": [
+                {
+                  "text": "1 month free"
+                }
+              ]
+            },
+            "serviceEndpoint": {
+              "clickTrackingParams": "CAsQ7G8iEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/feedback"
+                }
+              },
+              "feedbackEndpoint": {
+                "feedbackToken": "AB9zfpInarGF4dCV75hQZsndJAxov93S0O3MAwACAm6-KhZjrlxlzgPQFO9EzbLnHxpVrt_UqloBNeHn5FHa8HCDkopJUL0YYtCVckO_5vrsXDxCgUVB7GHjLjvJpwL-7R5DveIS_XO9X87KouWVY3c4mbrXcBFZnQ",
+                "uiActions": {
+                  "hideEnclosingContainer": true
+                }
+              }
+            },
+            "navigationEndpoint": {
+              "clickTrackingParams": "CAsQ7G8iEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/premium?ybp=Eg9GRXdoYXRfdG9fd2F0Y2gqEmRtZWEtYWNxLWMtZWdzb1ZEZDoaCAYYASoUChJkbWVhLWFjcS1jLWVnc29WRGQ%253D",
+                  "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                  "rootVe": 11487,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "SPunlimited",
+                "params": "kgNBEg9GRXdoYXRfdG9fd2F0Y2gqEmRtZWEtYWNxLWMtZWdzb1ZEZDoaCAYYASoUChJkbWVhLWFjcS1jLWVnc29WRGQ%3D"
+              }
+            },
+            "trackingParams": "CAsQ7G8iEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+          }
+        },
+        "dismissButton": {
+          "buttonRenderer": {
+            "style": "STYLE_TEXT",
+            "size": "SIZE_DEFAULT",
+            "text": {
+              "runs": [
+                {
+                  "text": "Skip trial"
+                }
+              ]
+            },
+            "serviceEndpoint": {
+              "clickTrackingParams": "CAoQ7W8iEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/feedback"
+                }
+              },
+              "feedbackEndpoint": {
+                "feedbackToken": "AB9zfpJpmfWqU1ZUQtOYNYgfR5TbDO5x7FgK-YVU0A6QFj7WD7rJjbjVstqvBK-kX7NruRZRI-ebLmQBdwv-LUag6RbdGmThEVRq64NPMoLU292euLby9g_aUC_uFmHymgzvjDflUSI8fAIKNwaX0cTXUE3hFNGDMg",
+                "uiActions": {
+                  "hideEnclosingContainer": true
+                }
+              }
+            },
+            "trackingParams": "CAoQ7W8iEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+          }
+        },
+        "triggerCondition": "TRIGGER_CONDITION_POST_AD",
+        "style": "STYLE_MESSAGE",
+        "trackingParams": "CAkQ42kYAiITCJK004nom_MCFSuGVgEdEmUH_g==",
+        "impressionEndpoints": [
+          {
+            "clickTrackingParams": "CAkQ42kYAiITCJK004nom_MCFSuGVgEdEmUH_g==",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "sendPost": true,
+                "apiUrl": "/youtubei/v1/feedback"
+              }
+            },
+            "feedbackEndpoint": {
+              "feedbackToken": "AB9zfpId6zt6BAfclKtzqgn1lWjni7RYKtvpjfmKKTrtOzRGLKTqXrBoVMoJLuU1ZXfwrKRlinnF8wlf1EDz6VbkT-l-KprYIgD7q9vQs8PCu96-fpRRcMIfIAdnsogSc4SfBHszBm5KmWlEN5FVo3gui3h10hmZGw",
+              "uiActions": {
+                "hideEnclosingContainer": false
+              }
+            }
+          }
+        ],
+        "isVisible": true,
+        "messageTitle": {
+          "runs": [
+            {
+              "text": "YouTube Premium"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "endscreen": {
+    "endscreenRenderer": {
+      "elements": [
+        {
+          "endscreenElementRenderer": {
+            "style": "CHANNEL",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/ytc/AKedOLRKwgg4EOWA13QQMUypZHv-PHbMYDaAjSz9q5bt6Q=s250-c-k-c0x00ffffff-no-rj",
+                  "width": 250,
+                  "height": 250
+                },
+                {
+                  "url": "https://yt3.ggpht.com/ytc/AKedOLRKwgg4EOWA13QQMUypZHv-PHbMYDaAjSz9q5bt6Q=s400-c-k-c0x00ffffff-no-rj",
+                  "width": 400,
+                  "height": 400
+                }
+              ]
+            },
+            "icon": {
+              "thumbnails": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/annotations/youtube.png"
+                }
+              ]
+            },
+            "left": 0.78070176,
+            "width": 0.15438597,
+            "top": 0.13084112,
+            "aspectRatio": 1,
+            "startMs": "686861",
+            "endMs": "695528",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Piece of French, channel"
+                }
+              },
+              "simpleText": "Piece of French"
+            },
+            "metadata": {
+              "simpleText": "Welcome to Piece of French, an immersive French learning experience! \n\nMy name is Elsa, I was born and raised in France. Follow me in my daily life as a native French speaker and learn French as it is actually spoken by real people. Gain vocabulary and master new idoms in their context, while improving your comprehension and pronunciation skills!"
+            },
+            "callToAction": {
+              "simpleText": "VISIT CHANNEL"
+            },
+            "dismiss": {
+              "simpleText": "CANCEL"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAQQ-N4BGAAiEwiStNOJ6JvzAhUrhlYBHRJlB_4yDGl2LWVuZHNjcmVlbkjCz_3X9vr_g30=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCVzyfpNuFF4ENY8zNTIW7ug",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCVzyfpNuFF4ENY8zNTIW7ug"
+              }
+            },
+            "hovercardButton": {
+              "subscribeButtonRenderer": {
+                "buttonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBE"
+                    }
+                  ]
+                },
+                "subscribed": false,
+                "enabled": true,
+                "type": "FREE",
+                "channelId": "UCVzyfpNuFF4ENY8zNTIW7ug",
+                "showPreferences": false,
+                "subscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBED"
+                    }
+                  ]
+                },
+                "unsubscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBE"
+                    }
+                  ]
+                },
+                "trackingParams": "CAUQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4yDGl2LWVuZHNjcmVlbg==",
+                "unsubscribeButtonText": {
+                  "runs": [
+                    {
+                      "text": "UNSUBSCRIBE"
+                    }
+                  ]
+                },
+                "serviceEndpoints": [
+                  {
+                    "clickTrackingParams": "CAUQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4yDGl2LWVuZHNjcmVlbg==",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/subscription/subscribe"
+                      }
+                    },
+                    "subscribeEndpoint": {
+                      "channelIds": [
+                        "UCVzyfpNuFF4ENY8zNTIW7ug"
+                      ],
+                      "params": "EgIIBBgA"
+                    }
+                  },
+                  {
+                    "clickTrackingParams": "CAUQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true
+                      }
+                    },
+                    "signalServiceEndpoint": {
+                      "signal": "CLIENT_SIGNAL",
+                      "actions": [
+                        {
+                          "clickTrackingParams": "CAUQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                          "openPopupAction": {
+                            "popup": {
+                              "confirmDialogRenderer": {
+                                "trackingParams": "CAYQxjgiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                                "dialogMessages": [
+                                  {
+                                    "runs": [
+                                      {
+                                        "text": "Unsubscribe from "
+                                      },
+                                      {
+                                        "text": "Piece of French"
+                                      },
+                                      {
+                                        "text": "?"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "confirmButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_BLUE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "Unsubscribe"
+                                        }
+                                      ]
+                                    },
+                                    "serviceEndpoint": {
+                                      "clickTrackingParams": "CAgQ8FsiEwiStNOJ6JvzAhUrhlYBHRJlB_4yDGl2LWVuZHNjcmVlbg==",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+                                        }
+                                      },
+                                      "unsubscribeEndpoint": {
+                                        "channelIds": [
+                                          "UCVzyfpNuFF4ENY8zNTIW7ug"
+                                        ],
+                                        "params": "CgIIBBgA"
+                                      }
+                                    },
+                                    "accessibility": {
+                                      "label": "Unsubscribe"
+                                    },
+                                    "trackingParams": "CAgQ8FsiEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+                                  }
+                                },
+                                "cancelButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "Cancel"
+                                        }
+                                      ]
+                                    },
+                                    "accessibility": {
+                                      "label": "Cancel"
+                                    },
+                                    "trackingParams": "CAcQ8FsiEwiStNOJ6JvzAhUrhlYBHRJlB_4="
+                                  }
+                                },
+                                "primaryIsCancel": false
+                              }
+                            },
+                            "popupType": "DIALOG"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "subscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Subscribe to Piece of French."
+                  }
+                },
+                "unsubscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Unsubscribe from Piece of French."
+                  }
+                },
+                "signInEndpoint": {
+                  "clickTrackingParams": "CAUQmysiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCVzyfpNuFF4ENY8zNTIW7ug%26feature%3Div-endscreen%26continue_action%3DQUFFLUhqbUotWjhHQ3lwaG1TbEJRd3VkaGV0Tmd0SVcyZ3xBQ3Jtc0tsYnFEazMtQkVqUWt3Vm81QlA4UnVpMEpsemRxMENzUVpubjlJNDFRQ1lmTnFDRTJvaTNYUFdRbnRFdEp4NXA2TkhmR2M4bEVIR0pvcEJLZVJMUjFLRTVWdDF1MURmbUpUTjVSTVhWdXFPUXJseFhmYkdlLThVb2lpcFlvaF9BSk4tVEs0aWFCYlREcm5JbDA2RDNLY29mVDJDTlhsTVZUeGVpOExoM1B2YkV4MlhpWUtsQWZ1WmVHZnhsbDEwZ1dhdDRoYTg%253D&hl=en"
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAQQ-N4BGAAiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+            "isSubscribe": true,
+            "id": "10894425623825970162"
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "VIDEO",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://i.ytimg.com/vi/alUeRCY9EYo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC_U66PFPUUfEJ7qLK0OrRUaJbJMQ",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/alUeRCY9EYo/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAwQLoceCEUPKhNKg_xj1UdayfoFg",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/alUeRCY9EYo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxDCx5WoJd-NfPAP50meHBEc6R_Q",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/alUeRCY9EYo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDiT74PiAyaxaRsYglzaurqHZUdOw",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/alUeRCY9EYo/maxresdefault.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "videoDuration": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "17 minutes, 24 seconds"
+                }
+              },
+              "simpleText": "17:24"
+            },
+            "left": 0.61228073,
+            "width": 0.32280701,
+            "top": 0.52454501,
+            "aspectRatio": 1.7777778,
+            "startMs": "686861",
+            "endMs": "695528",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Life in SOUTH OF FRANCE: Expectations VS Reality // MUST-SEE video if you want to move to France!, video"
+                }
+              },
+              "simpleText": "Life in SOUTH OF FRANCE: Expectations VS Reality // MUST-SEE video if you want to move to France!"
+            },
+            "metadata": {
+              "simpleText": "27,632 views"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAMQ8t4BGAEiEwiStNOJ6JvzAhUrhlYBHRJlB_4yDGl2LWVuZHNjcmVlbkjCz_3X9vr_g32aAQMQu2k=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/watch?v=alUeRCY9EYo",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "alUeRCY9EYo",
+                "watchEndpointSupportedOnesieConfig": {
+                  "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                      "url": "https://r3---sn-oguesn6s.googlevideo.com/initplayback?source=youtube&orc=1&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odeak=1&odepv=1&osfc=1&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=6a551e44263d118a&initcwndbps=1216250&mt=1632630764&oweuc=&pxtags=Cg4KAnR4EggyMzk5Nzk3MA&rxtags=Cg4KAnR4EggyMzk5Nzk3MA%2CCg4KAnR4EggyNDAwODEwOA"
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAMQ8t4BGAEiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+            "id": "10894425623825969529"
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "VIDEO",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://i.ytimg.com/vi/IdP25IQYZNY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCY86IkNd1nmQqZxeHEkjx7QFGq3w",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/IdP25IQYZNY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDhee7cjKUP7UH6FRzjMZGwLLOtZw",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/IdP25IQYZNY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC6R-we3cJnuo1aEOpscogeTHwl9A",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/IdP25IQYZNY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvsjgcMGftG2KnB3yRALlEEGylMA",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/IdP25IQYZNY/maxresdefault.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "videoDuration": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "9 minutes, 12 seconds"
+                }
+              },
+              "simpleText": "9:12"
+            },
+            "left": 0.064912282,
+            "width": 0.32280701,
+            "top": 0.52454501,
+            "aspectRatio": 1.7777778,
+            "startMs": "686861",
+            "endMs": "695528",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "FRENCH CHIT-CHAT ☕ A much needed life update! // Intermediate French Listening Practice, video"
+                }
+              },
+              "simpleText": "FRENCH CHIT-CHAT ☕ A much needed life update! // Intermediate French Listening Practice"
+            },
+            "metadata": {
+              "simpleText": "31,342 views"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAIQ8d4BGAIiEwiStNOJ6JvzAhUrhlYBHRJlB_4yDGl2LWVuZHNjcmVlbkjCz_3X9vr_g32aAQMQu2k=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/watch?v=IdP25IQYZNY",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "IdP25IQYZNY",
+                "watchEndpointSupportedOnesieConfig": {
+                  "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                      "url": "https://r4---sn-ogueln7s.googlevideo.com/initplayback?source=youtube&orc=1&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odeak=1&odepv=1&osfc=1&ip=2400%3A4051%3A11c1%3A1700%3A523b%3Ae37d%3A3d1a%3A120&id=21d3f6e4841864d6&initcwndbps=1216250&mt=1632630764&oweuc=&pxtags=Cg4KAnR4EggyMzk5Nzk3MA&rxtags=Cg4KAnR4EggyMzk5Nzk3MA%2CCg4KAnR4EggyNDAwODEwOA"
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAIQ8d4BGAIiEwiStNOJ6JvzAhUrhlYBHRJlB_4=",
+            "id": "10894425623825972992"
+          }
+        }
+      ],
+      "startMs": "686861",
+      "trackingParams": "CAEQ794BIhMIkrTTieib8wIVK4ZWAR0SZQf-"
+    }
+  },
+  "adPlacements": [
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_MILLISECONDS",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "0",
+              "offsetEndMilliseconds": "173466"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "adBreakServiceRenderer": {
+            "prefetchMilliseconds": "10000",
+            "getAdBreakUrl": "https://www.youtube.com/get_midroll_info?ei=evhPYZKPBauM2roPksqd8A8&m_pos=10&token=ALWClJJTA1o2WRCRwdKTP3s1vbOQMI2_CqpSxY16lRPOTDOTSQvLPU6hulsIloZLmLXn2u1OdtKHBUa84JklGqMjhsd5Ft6fnMvK6FMCu5ipMPN8gAb1Pe8BkNZ5lDU-7hlJqORDWvU_iFESzXHA8vc29PB5fybwVR_hVD4Pqo4b70t4UunrG46uSb94w4DhmsEU9JinNpzE4ettst170D1X7idaf4jQ3m6_BOZigyeQdpKpiHZ5rkNV2frDvLpuLO9OEQNu5liTH6ZbRYeuV-qSQ6TOhqTSh0huQccJ95LibSkuoVdoKy0PiZIfDa940r7jyNHmIK9N&index=0&vis=[VIS]&ad_block=[AD_BLOCK]&tsla=[TSLA]&bid=[BISCOTTI_ID]&dt=[DT]&flash=[FLASH]&frm=[FRM]&ca_type=[CA_TYPE]&u_tz=[U_TZ]&u_his=[U_HIS]&u_java=[U_JAVA]&u_h=[U_H]&u_w=[U_W]&u_ah=[U_AH]&u_aw=[U_AW]&u_cd=[U_CD]&u_nplug=[U_NPLUG]&u_nmime=[U_NMIME]&lact=[LACT]&p_w=[P_W]&p_h=[P_H]&c=WEB&cver=2.20210924.00.00&action_proxy=1&video_id=fQf_12r_Z8I&m_pos_ms=10000"
+          }
+        },
+        "adSlotLoggingData": {
+          "serializedSlotAdServingDataEntry": ""
+        }
+      }
+    },
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_MILLISECONDS",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "173466",
+              "offsetEndMilliseconds": "386418"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "adBreakServiceRenderer": {
+            "prefetchMilliseconds": "10000",
+            "getAdBreakUrl": "https://www.youtube.com/get_midroll_info?ei=evhPYZKPBauM2roPksqd8A8&m_pos=173&token=ALWClJL2Ij4NWnHzaN0olLxRIGbAArWpDHVW3Rm8bpYD4iz7YPcEcpaASd-fBrzEnrdG8iKrkgw0BnbLcfAP6HjrzExPkTpo_ogozzEflkvrL7bHP2aHF0zsnEyGFyWiWaYfyz8gfk308XPHX5rC5SSTs987cGLfhzzA5w9eybDxkUHpf2vTRnmxRkOCi6w6rLdX0runczzP9D2rZZ6X9AJin6A2IDsBOD0XmsH2yhY7wfUpERJmIlCzz9YFurX9xvasJFDNWb7WCvtRmGeVifS-wmrWtmCDEE2V4RHFWoviB_SFTsaVJKVzJzOu45xy9Eu_WVOmNKkk&index=1&cpn=[CPN]&lact=[LACT]&vis=[VIS]&ad_block=[AD_BLOCK]&tsla=[TSLA]&bid=[BISCOTTI_ID]&dt=[DT]&flash=[FLASH]&frm=[FRM]&ca_type=[CA_TYPE]&u_tz=[U_TZ]&u_his=[U_HIS]&u_java=[U_JAVA]&u_h=[U_H]&u_w=[U_W]&u_ah=[U_AH]&u_aw=[U_AW]&u_cd=[U_CD]&u_nplug=[U_NPLUG]&u_nmime=[U_NMIME]&p_w=[P_W]&p_h=[P_H]&c=WEB&cver=2.20210924.00.00&m_pos_ms=173466"
+          }
+        },
+        "adSlotLoggingData": {
+          "serializedSlotAdServingDataEntry": ""
+        }
+      }
+    },
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_MILLISECONDS",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "386418",
+              "offsetEndMilliseconds": "-1"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "adBreakServiceRenderer": {
+            "prefetchMilliseconds": "10000",
+            "getAdBreakUrl": "https://www.youtube.com/get_midroll_info?ei=evhPYZKPBauM2roPksqd8A8&m_pos=386&token=ALWClJLasg4-KSGAp9YoO-PdAr07nLAH7CaVEBIHHeyRm5vWpCKNKVJZsh6cOaRYRJF8WSqM2_2Jn3tZURx3DOi-OGZNd4acTukVddEVErrQkxr4cMuee1TuvchJqiFM13KQDPQr0rDM1GxqgeAJlwMuXbAkRmJ72RkVyHqmuKzjNl9nagamqItQ2cfyNJYCRSNx0NmTVKvOp71ykG-UlhoMJusAsvGyvN1aYF8bxVOfmU_fD54KiWQ7LjGg4cV5GdPFxhy9SPaIe2DAYog-8sg9sgCOt-0R1JTQ7hf5ArCLftGCnp4KaeR8PF_ZrE4NNBN18ZPG8LSz&index=2&cpn=[CPN]&lact=[LACT]&vis=[VIS]&ad_block=[AD_BLOCK]&tsla=[TSLA]&bid=[BISCOTTI_ID]&dt=[DT]&flash=[FLASH]&frm=[FRM]&ca_type=[CA_TYPE]&u_tz=[U_TZ]&u_his=[U_HIS]&u_java=[U_JAVA]&u_h=[U_H]&u_w=[U_W]&u_ah=[U_AH]&u_aw=[U_AW]&u_cd=[U_CD]&u_nplug=[U_NPLUG]&u_nmime=[U_NMIME]&p_w=[P_W]&p_h=[P_H]&c=WEB&cver=2.20210924.00.00&m_pos_ms=386418"
+          }
+        },
+        "adSlotLoggingData": {
+          "serializedSlotAdServingDataEntry": ""
+        }
+      }
+    },
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_END",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "-1",
+              "offsetEndMilliseconds": "-1"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "adBreakServiceRenderer": {
+            "prefetchMilliseconds": "10000",
+            "getAdBreakUrl": "https://www.youtube.com/get_midroll_info?ei=evhPYZKPBauM2roPksqd8A8&m_pos=-1&token=ALWClJJPomMUhci5B3pc5b9V270OvBxe5aEujH4jOm_3gfBQBJ-oMMafVHEfL8fhnbMvLuSTSiL9WCLE1HpguxjWTPEWfNvB51a9hnfvIxW5kGoYiirLo87ZQkZVLB7S5MICeEruRDBzPTFPqUXvW5vNNX-F0Mwxc46zLleI5JeE0Wn-EfrVn4JPG3rPPYGL0hEedDITiizpGFG4AkctzrNmJd6MZjzZMxVEWuaQUAUF4Bgs8P_Ri-grYmzlsbO_sDdXgjYuC1gLp6F8p9TKhJGvx2m6xg-2CJP2Km7bYDIjvQogCgQmcOMKicz2DhsFDRRLjdoZCQsQ&index=3&cpn=[CPN]&lact=[LACT]&vis=[VIS]&ad_block=[AD_BLOCK]&tsla=[TSLA]&bid=[BISCOTTI_ID]&dt=[DT]&flash=[FLASH]&frm=[FRM]&ca_type=[CA_TYPE]&u_tz=[U_TZ]&u_his=[U_HIS]&u_java=[U_JAVA]&u_h=[U_H]&u_w=[U_W]&u_ah=[U_AH]&u_aw=[U_AW]&u_cd=[U_CD]&u_nplug=[U_NPLUG]&u_nmime=[U_NMIME]&p_w=[P_W]&p_h=[P_H]&c=WEB&cver=2.20210924.00.00&m_pos_ms=-1"
+          }
+        },
+        "adSlotLoggingData": {
+          "serializedSlotAdServingDataEntry": ""
+        }
+      }
+    }
+  ],
+  "frameworkUpdates": {
+    "entityBatchUpdate": {
+      "mutations": [
+        {
+          "entityKey": "Eg0KC2ZRZl8xMnJfWjhJIPYBKAE%3D",
+          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+          "payload": {
+            "offlineabilityEntity": {
+              "key": "Eg0KC2ZRZl8xMnJfWjhJIPYBKAE%3D",
+              "accessState": "OFFLINEABILITY_FEATURE_ACCESS_STATE_UNKNOWN"
+            }
+          }
+        }
+      ],
+      "timestamp": {
+        "seconds": "1632630906",
+        "nanos": 193155003
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+aiohttp==3.7.4.post0
+bcrypt==3.2.0
+black==21.9b0
+boto3==1.18.44
+isort==5.9.3
+more-itertools==8.10.0
+mypy==0.910
+pydantic==1.8.2
+PyJWT==2.1.0
+pylint==2.11.1
+pytest==6.2.5
+pytest-sugar==0.9.4

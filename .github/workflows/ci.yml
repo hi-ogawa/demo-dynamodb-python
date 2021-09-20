@@ -1,0 +1,27 @@
+name: CI
+on: [push]
+jobs:
+  lint:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.9.7"
+      - uses: actions/checkout@v2
+      - run: make install
+      - run: make lint/check
+      - run: make mypy
+
+  test:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.9.7"
+      - uses: actions/checkout@v2
+      - run: make install
+      - run: docker-compose pull
+      - run: docker-compose up -d
+      - run: sleep 1 && docker-compose exec -T -e AWS_ACCESS_KEY_ID=test -e AWS_SECRET_ACCESS_KEY=test -e AWS_DEFAULT_REGION=ap-northeast-1 localstack aws --endpoint-url=http://localhost:4566 dynamodb list-tables
+      - run: make test
+      - run: docker-compose down
